@@ -1,0 +1,2001 @@
+doctor_id,doctor_name,specialty,province
+1,Anthony Huff,Dentist,KZN
+2,Sean Jackson,Orthopedic,KZN
+3,Becky Holt,Radiologist,Western Cape
+4,Kelly Reed,General Practitioner,Gauteng
+5,Denise Burnett,Orthopedic,KZN
+6,Shawn Miller,Dentist,KZN
+7,Megan Barry,Dentist,Gauteng
+8,Erica Bernard,Orthopedic,Western Cape
+9,Kimberly Schneider,Radiologist,Gauteng
+10,Robert Munoz,General Practitioner,Gauteng
+11,Jorge Jackson,Orthopedic,Western Cape
+12,Michelle King,Orthopedic,Western Cape
+13,Michael Burns,Radiologist,Western Cape
+14,Nancy Ortiz,General Practitioner,Gauteng
+15,Wendy Moreno,Radiologist,Western Cape
+16,William Smith,General Practitioner,KZN
+17,David Ross,Radiologist,Western Cape
+18,Kevin Dennis,Orthopedic,Western Cape
+19,Courtney Nelson,Orthopedic,KZN
+20,Christopher Liu,Radiologist,KZN
+21,Michael Klein,Dentist,KZN
+22,Calvin Weaver,Dentist,Western Cape
+23,William Gonzalez,Orthopedic,Western Cape
+24,Charles Cruz,Orthopedic,Western Cape
+25,Jean James,Dentist,Gauteng
+26,Garrett Phillips,General Practitioner,Western Cape
+27,Maria Lewis,General Practitioner,KZN
+28,Danielle Nguyen,Orthopedic,Gauteng
+29,Allen Greene,General Practitioner,KZN
+30,Jason Sanchez,Orthopedic,Western Cape
+31,John Obrien,Radiologist,Western Cape
+32,Mitchell Perry,Orthopedic,Western Cape
+33,Bruce Petersen,Radiologist,Western Cape
+34,Tiffany Gonzalez,General Practitioner,Gauteng
+35,William Chang,General Practitioner,KZN
+36,Sean Brown,Orthopedic,KZN
+37,Jason Simmons,General Practitioner,Western Cape
+38,Kathy Cox,General Practitioner,KZN
+39,Linda Mcgee,Radiologist,KZN
+40,Emily Mayer,Dentist,Gauteng
+41,Samantha Nash,General Practitioner,KZN
+42,Thomas Huynh,Orthopedic,KZN
+43,Brittney Walsh,Dentist,Western Cape
+44,William Ortiz,General Practitioner,KZN
+45,James Strickland,General Practitioner,Gauteng
+46,Sarah Dougherty,General Practitioner,Gauteng
+47,Richard Roman,Orthopedic,KZN
+48,Michael Davidson,Radiologist,Gauteng
+49,John Davis,General Practitioner,Western Cape
+50,Mary Bryant,Orthopedic,KZN
+51,Sara Johnson,Dentist,Gauteng
+52,Dale Henry,Orthopedic,Gauteng
+53,David Morales,Orthopedic,KZN
+54,Todd Torres,Orthopedic,KZN
+55,Edward Herrera,Radiologist,Gauteng
+56,Taylor Bailey,General Practitioner,Gauteng
+57,Tyler Martin,Dentist,Western Cape
+58,James Butler,Orthopedic,KZN
+59,Phillip Nielsen,Radiologist,KZN
+60,Sandra Peterson,Radiologist,Western Cape
+61,Judy Caldwell DVM,Orthopedic,KZN
+62,Rebecca Chan,Orthopedic,Western Cape
+63,Tara Clarke,Orthopedic,Western Cape
+64,Tami Humphrey,Radiologist,Western Cape
+65,Brittany Smith,Orthopedic,KZN
+66,David Murphy,Orthopedic,Gauteng
+67,Christopher Goodwin,Radiologist,KZN
+68,Jack York,Dentist,Western Cape
+69,Steven Hicks,Radiologist,Western Cape
+70,Andrea Wise,Orthopedic,Gauteng
+71,William Montgomery,Orthopedic,Western Cape
+72,Troy Santana,General Practitioner,Gauteng
+73,John Sweeney,Orthopedic,Gauteng
+74,Susan Ramos,Radiologist,KZN
+75,Gary Johnson,General Practitioner,KZN
+76,Jennifer Cline,General Practitioner,KZN
+77,Madison Sullivan,Radiologist,Gauteng
+78,Samantha Allen,Orthopedic,Western Cape
+79,Traci Hodge,Dentist,Gauteng
+80,Jaime Hess,Orthopedic,Gauteng
+81,Mr. Gary Sanchez,General Practitioner,Gauteng
+82,Christopher Martinez,Dentist,Western Cape
+83,Victor Jackson,Orthopedic,Gauteng
+84,Brenda Haynes,Radiologist,KZN
+85,Janet Williams,Radiologist,KZN
+86,Tara Jenkins MD,Dentist,KZN
+87,William Morton,Dentist,KZN
+88,Bethany Bennett,Orthopedic,Gauteng
+89,Jacqueline Ferguson,Orthopedic,KZN
+90,Stephanie Hill,Radiologist,KZN
+91,Joshua Garcia,General Practitioner,Gauteng
+92,Judy Scott,General Practitioner,Gauteng
+93,Amy Burns,General Practitioner,Western Cape
+94,William Gardner,Orthopedic,KZN
+95,Rebecca Wilson,Dentist,Gauteng
+96,Christopher Rodriguez,Radiologist,KZN
+97,Francis Mcmillan,General Practitioner,Western Cape
+98,Timothy Anderson,Orthopedic,Gauteng
+99,Shawn Watson,Orthopedic,KZN
+100,Darlene Reynolds,Radiologist,KZN
+101,Brittany Vazquez,General Practitioner,KZN
+102,Mr. Scott Martin,General Practitioner,Western Cape
+103,Mason Moore,General Practitioner,Western Cape
+104,Margaret Osborne MD,Radiologist,KZN
+105,Kristina Pope,Dentist,KZN
+106,Lori Kerr,General Practitioner,KZN
+107,Cheryl Olson,General Practitioner,Gauteng
+108,John Robles,Orthopedic,Western Cape
+109,Craig Miller,Dentist,Western Cape
+110,Robert Harper,Orthopedic,Western Cape
+111,Alexis Lucas,Radiologist,Western Cape
+112,Aaron Travis,Radiologist,Western Cape
+113,Crystal Castillo,Orthopedic,Western Cape
+114,Sheila Fuentes,General Practitioner,Western Cape
+115,Rebecca Goodwin,Dentist,Gauteng
+116,Marissa Wolf,Radiologist,Gauteng
+117,Michelle Hatfield,General Practitioner,KZN
+118,Christina Santiago,General Practitioner,Gauteng
+119,Christopher Robinson,Orthopedic,KZN
+120,William Johnson,General Practitioner,Gauteng
+121,Alicia Johnson,Dentist,KZN
+122,Jason Gates,Dentist,Gauteng
+123,Michael Scott,Radiologist,KZN
+124,Heather Young,General Practitioner,KZN
+125,Eric Acosta,Orthopedic,KZN
+126,Jacob Pitts,General Practitioner,KZN
+127,Tracey Potts,General Practitioner,Western Cape
+128,Levi George,General Practitioner,KZN
+129,Carol Hebert,Radiologist,KZN
+130,Michele Perez,Orthopedic,KZN
+131,Kimberly Green,General Practitioner,Gauteng
+132,Mary Clayton,Radiologist,Western Cape
+133,Michelle Torres,Orthopedic,Western Cape
+134,Sarah Rivers,Radiologist,Gauteng
+135,Karen Sparks,Dentist,Gauteng
+136,Megan Mcgrath,Radiologist,KZN
+137,Dr. Alexander Gregory,Orthopedic,KZN
+138,Anthony Mcintyre,Dentist,Western Cape
+139,Courtney Reed,Dentist,KZN
+140,Maureen Jimenez,Orthopedic,Gauteng
+141,Corey Guerrero,Radiologist,Gauteng
+142,Jeffrey Wilson,General Practitioner,KZN
+143,Beth Shaw,General Practitioner,Gauteng
+144,Angela White,General Practitioner,Gauteng
+145,Barbara Velazquez,Orthopedic,Gauteng
+146,Victor Vance,General Practitioner,KZN
+147,Meagan Taylor,General Practitioner,Gauteng
+148,Brenda Freeman,Orthopedic,Gauteng
+149,Lauren Johnson,Dentist,Western Cape
+150,Margaret Gardner,General Practitioner,Gauteng
+151,Bruce Wilson,Dentist,KZN
+152,Desiree Morris,Radiologist,Western Cape
+153,Pam Stewart,Orthopedic,Western Cape
+154,Colin King,Orthopedic,KZN
+155,Kenneth Lopez,Dentist,KZN
+156,Victor Roberts,Orthopedic,Gauteng
+157,Amy Hobbs,Orthopedic,KZN
+158,Stephen Harvey,General Practitioner,KZN
+159,Mark Owens,Dentist,KZN
+160,Kathy Johnson,General Practitioner,KZN
+161,Joseph Porter,Orthopedic,KZN
+162,Matthew Myers,General Practitioner,Gauteng
+163,Lindsay Lopez,General Practitioner,Western Cape
+164,Jeremiah Randolph,Orthopedic,KZN
+165,Victoria Hanson,Radiologist,Gauteng
+166,Robert Johnson,Radiologist,KZN
+167,Michael Smith,Orthopedic,Western Cape
+168,Martin Mercado,Orthopedic,KZN
+169,Christopher Ramos,General Practitioner,Western Cape
+170,Beth Howard,Orthopedic,Western Cape
+171,Frank Alexander,Radiologist,Gauteng
+172,Blake Powell,Dentist,KZN
+173,Laurie Garcia,Radiologist,KZN
+174,Elizabeth Atkinson,Orthopedic,Western Cape
+175,Kelsey Brown,Dentist,KZN
+176,Russell Williams,General Practitioner,Gauteng
+177,James Hopkins,Orthopedic,Gauteng
+178,Jeffery Peterson,Radiologist,Gauteng
+179,Dustin Russell,Orthopedic,KZN
+180,Samuel Long,General Practitioner,KZN
+181,Grace Mclean,General Practitioner,Western Cape
+182,Christina Kelley,Radiologist,Western Cape
+183,Johnny Cook,Dentist,Gauteng
+184,Melanie Haley,Radiologist,Western Cape
+185,Rachel Glenn,Orthopedic,Western Cape
+186,Jason Mullen,Orthopedic,Western Cape
+187,Cathy Holland,Radiologist,Western Cape
+188,Amy Palmer,Orthopedic,KZN
+189,Ann Morales,Orthopedic,Gauteng
+190,James Russell,General Practitioner,Western Cape
+191,Jon Stewart,Dentist,Gauteng
+192,Austin Haynes,Radiologist,Gauteng
+193,Amy Lopez,Orthopedic,Gauteng
+194,Michael Daniel,Dentist,Gauteng
+195,Emma Rodriguez,Orthopedic,KZN
+196,Adam Sweeney,Orthopedic,KZN
+197,Jessica Pittman,Dentist,Gauteng
+198,Debra Cohen,Dentist,KZN
+199,James Flowers,Orthopedic,Western Cape
+200,Joshua Long,General Practitioner,KZN
+201,Deborah Morgan,Dentist,Gauteng
+202,Karen Gonzalez,Orthopedic,KZN
+203,Daniel Alvarado,Dentist,Western Cape
+204,Stephanie Barajas,Radiologist,KZN
+205,Brian Rice,Radiologist,Gauteng
+206,Robert Sullivan,Dentist,KZN
+207,Ricardo Cuevas,General Practitioner,Gauteng
+208,Stephanie Day,Dentist,KZN
+209,Erica Copeland DDS,Orthopedic,Western Cape
+210,Rebecca Perez,Radiologist,Gauteng
+211,Aaron Flores,Orthopedic,Gauteng
+212,Summer Kemp,Dentist,Gauteng
+213,Russell Dixon,General Practitioner,Western Cape
+214,Kevin Smith,Orthopedic,Western Cape
+215,Lisa Greene,Orthopedic,Gauteng
+216,Zachary Smith,Radiologist,Western Cape
+217,Jeff Mcdowell,Dentist,Western Cape
+218,Brett Watson,General Practitioner,KZN
+219,Elizabeth Ryan,Radiologist,Western Cape
+220,Elizabeth Chaney,Dentist,KZN
+221,Jennifer Weaver PhD,Radiologist,KZN
+222,Emily Rollins,Radiologist,Western Cape
+223,Crystal Logan,Dentist,Western Cape
+224,Eric Bishop,General Practitioner,Gauteng
+225,Christine Harrington,Orthopedic,Gauteng
+226,Samantha Stone,Radiologist,Western Cape
+227,Zachary Taylor,Dentist,KZN
+228,Annette Carlson,Dentist,Western Cape
+229,Alexander Espinoza,Dentist,Gauteng
+230,Brian Moore,Radiologist,Western Cape
+231,Mario White,Dentist,Western Cape
+232,Michael Martin,Dentist,Western Cape
+233,Christine English,Dentist,KZN
+234,Austin Pacheco,Radiologist,KZN
+235,Lawrence Cooper,Dentist,Western Cape
+236,Destiny Moon,Radiologist,Western Cape
+237,Jason Miller,Radiologist,KZN
+238,Larry Evans,Radiologist,KZN
+239,Travis Ritter,Radiologist,Gauteng
+240,Rebecca Mcclure,Radiologist,Western Cape
+241,Mathew Jackson,General Practitioner,Gauteng
+242,Julie Daugherty,Radiologist,Western Cape
+243,Denise Spencer,General Practitioner,Western Cape
+244,Joseph Garza,General Practitioner,Western Cape
+245,Kimberly Thompson,Orthopedic,Gauteng
+246,Christian Lowe,Dentist,Western Cape
+247,Isaiah Moore,Radiologist,Western Cape
+248,Courtney Gillespie,Orthopedic,Gauteng
+249,David Moyer,Orthopedic,KZN
+250,Christine Wilson,General Practitioner,Gauteng
+251,Dwayne Williams,Dentist,Gauteng
+252,Michele Weber,Radiologist,Gauteng
+253,Bryan White,General Practitioner,KZN
+254,Christopher Cherry,Orthopedic,Gauteng
+255,Marissa Oconnor,General Practitioner,Gauteng
+256,Daniel Mckinney,Dentist,Gauteng
+257,Russell Sanchez,Dentist,Gauteng
+258,George Walker,Orthopedic,Western Cape
+259,Brittany King,Dentist,Western Cape
+260,Katherine Phillips,Radiologist,Gauteng
+261,Darren Williams,General Practitioner,KZN
+262,Wendy Hale,Radiologist,Western Cape
+263,Warren Meadows,General Practitioner,KZN
+264,Shannon Martin,Radiologist,Gauteng
+265,Jennifer Blankenship,Dentist,KZN
+266,Jamie Goodman,General Practitioner,Western Cape
+267,Virginia Macias,General Practitioner,KZN
+268,Valerie Acosta,Radiologist,Western Cape
+269,Kyle Simpson,Orthopedic,KZN
+270,Michael Wheeler,General Practitioner,KZN
+271,Bailey Haas,Radiologist,KZN
+272,Shirley Williams,Orthopedic,Gauteng
+273,Danielle Wheeler,General Practitioner,KZN
+274,Heather Cline,Orthopedic,Western Cape
+275,John Vargas,Radiologist,Gauteng
+276,Mr. Michael Mejia,Radiologist,KZN
+277,Desiree Williams,Orthopedic,KZN
+278,Guy White,Dentist,Gauteng
+279,Casey Garcia,Radiologist,Western Cape
+280,Cynthia Allen,General Practitioner,KZN
+281,James Stone,Orthopedic,Western Cape
+282,Valerie Sanders,Orthopedic,Western Cape
+283,Tina Bell,Dentist,Western Cape
+284,Sharon Rivera,Orthopedic,Gauteng
+285,Mr. Jeremy Bird,Dentist,Gauteng
+286,Jennifer Houston,Radiologist,KZN
+287,Edward Mccarty,Radiologist,KZN
+288,Brenda Simpson,Orthopedic,KZN
+289,Anthony James,General Practitioner,KZN
+290,Jacqueline Castro,General Practitioner,KZN
+291,Christopher Cunningham,Orthopedic,Gauteng
+292,Anna Madden,Dentist,Western Cape
+293,Maurice Love,General Practitioner,KZN
+294,Melinda Hodges,Orthopedic,Western Cape
+295,Anthony Adams,Dentist,KZN
+296,Bryan Brooks,Orthopedic,Western Cape
+297,Michael Conway,General Practitioner,Western Cape
+298,Courtney Day,General Practitioner,Gauteng
+299,Mary Schmidt,General Practitioner,Western Cape
+300,Dylan Jones,Dentist,Western Cape
+301,Holly Cross,Radiologist,KZN
+302,Crystal Edwards,Dentist,Western Cape
+303,Jennifer Alvarado,Radiologist,KZN
+304,Michele Franklin,Dentist,KZN
+305,Brenda Baird,Dentist,Western Cape
+306,Francisco Duncan,Radiologist,Western Cape
+307,Sarah Eaton,Dentist,Gauteng
+308,Tina Diaz,Radiologist,Western Cape
+309,Hunter Stanton,Dentist,Western Cape
+310,Kathleen Kemp,Dentist,KZN
+311,Leonard Nash,Orthopedic,KZN
+312,David Clark,General Practitioner,Gauteng
+313,Adam Stanley,Dentist,KZN
+314,Richard Morrison,Orthopedic,Gauteng
+315,Charles Perez,Radiologist,Gauteng
+316,Theresa Wagner,Orthopedic,Gauteng
+317,Debra Rodriguez,Dentist,Gauteng
+318,Tiffany Hernandez,Radiologist,Gauteng
+319,Mr. Donald Miller,Radiologist,KZN
+320,Brian Patel,General Practitioner,Western Cape
+321,Madison Huang,Orthopedic,Gauteng
+322,John Ray,General Practitioner,KZN
+323,Edgar Phillips,Dentist,Gauteng
+324,Corey Phillips,Orthopedic,Gauteng
+325,Stephen Graham,Radiologist,Western Cape
+326,Thomas Baker,Orthopedic,KZN
+327,David Pitts,Dentist,KZN
+328,Whitney Bauer,Dentist,KZN
+329,Jessica Young,Dentist,Gauteng
+330,Dawn Craig,Orthopedic,Western Cape
+331,Connie Simmons,General Practitioner,KZN
+332,Jessica Martinez,General Practitioner,Western Cape
+333,Carla Sanders,Radiologist,Gauteng
+334,Michael Beard,General Practitioner,KZN
+335,Walter Shields,Radiologist,Gauteng
+336,Richard Fletcher,General Practitioner,Western Cape
+337,Michael Nicholson,Orthopedic,KZN
+338,Margaret Lloyd,General Practitioner,Western Cape
+339,Monica Patterson,Radiologist,Western Cape
+340,Susan Meadows,Orthopedic,KZN
+341,Shannon Ortiz,Radiologist,Western Cape
+342,Daniel Fleming,General Practitioner,KZN
+343,Barbara Nelson,Orthopedic,KZN
+344,Walter Deleon,Dentist,KZN
+345,Anna Vargas,General Practitioner,Western Cape
+346,Sheena Smith,General Practitioner,Western Cape
+347,Jeremy Black,Dentist,KZN
+348,Nicole Larsen,Orthopedic,Gauteng
+349,Jeffrey Lawrence,Radiologist,Western Cape
+350,John Oconnell,Dentist,Gauteng
+351,Nicholas Ferguson,Orthopedic,Western Cape
+352,Kevin Young,Dentist,KZN
+353,Jennifer Patrick,Radiologist,Gauteng
+354,Steve Tanner,Radiologist,KZN
+355,Michele Cohen,Orthopedic,Western Cape
+356,Austin Ward,Orthopedic,KZN
+357,Monique Collins,General Practitioner,Western Cape
+358,Patrick Armstrong,Radiologist,Gauteng
+359,David Juarez,Orthopedic,Gauteng
+360,Elijah Mcmillan,Dentist,Gauteng
+361,Evan Turner,Radiologist,KZN
+362,Emily Perez,Orthopedic,Western Cape
+363,Bonnie Walters,General Practitioner,Gauteng
+364,Louis Martin,Dentist,Western Cape
+365,Margaret Bonilla,Orthopedic,Western Cape
+366,Ashley Smith,General Practitioner,KZN
+367,Lisa Ramirez,Dentist,Western Cape
+368,Tiffany Jackson,Dentist,Western Cape
+369,William Evans,Orthopedic,Western Cape
+370,Morgan Johnson,Dentist,KZN
+371,William Washington,Radiologist,KZN
+372,John Suarez,Radiologist,Western Cape
+373,Allison Rivera,Radiologist,KZN
+374,Leslie West,Orthopedic,Western Cape
+375,Dawn Johnson,Orthopedic,KZN
+376,Carolyn Kramer,Radiologist,Gauteng
+377,Richard Morgan,Orthopedic,Gauteng
+378,Susan White,General Practitioner,Western Cape
+379,Derrick Allen,Radiologist,Gauteng
+380,Amy Burton,Dentist,KZN
+381,Patrick Carter,General Practitioner,KZN
+382,Daniel White,General Practitioner,KZN
+383,Dorothy Bishop,Orthopedic,Western Cape
+384,Daniel Johnson,Radiologist,Western Cape
+385,Robert Cook,Orthopedic,Western Cape
+386,Kevin Reed,Orthopedic,Western Cape
+387,Brenda Rangel,Orthopedic,Gauteng
+388,Joan Montes,Orthopedic,Western Cape
+389,Derrick Grimes,Radiologist,KZN
+390,Patrick Lewis,Radiologist,KZN
+391,Larry Wells,Radiologist,KZN
+392,Mrs. Amanda Becker,Radiologist,Gauteng
+393,Jennifer Graham,Dentist,Gauteng
+394,Adam Roy,Orthopedic,KZN
+395,Kathryn Trujillo,Orthopedic,Gauteng
+396,Gary Gill,General Practitioner,Gauteng
+397,Mark Dudley,Dentist,Gauteng
+398,Christopher Robinson,General Practitioner,Western Cape
+399,Christopher Kennedy,Orthopedic,Gauteng
+400,Joel Ramos,Radiologist,KZN
+401,Melanie Norman,Orthopedic,Gauteng
+402,George Hamilton,Dentist,KZN
+403,Lori Miranda,Orthopedic,KZN
+404,Matthew Santiago,General Practitioner,Western Cape
+405,Miguel Hunt,Orthopedic,Gauteng
+406,Kimberly Adams,Radiologist,KZN
+407,John Morrison,Radiologist,Gauteng
+408,Danielle Phillips,Dentist,KZN
+409,Michael Tucker,Orthopedic,Gauteng
+410,Barbara Clark,Radiologist,Western Cape
+411,Tonya Perkins,Orthopedic,Gauteng
+412,Erica Ross,Dentist,KZN
+413,Keith Mccarthy,Orthopedic,KZN
+414,Patrick Osborn,Radiologist,Western Cape
+415,Karen Williams,Orthopedic,KZN
+416,Kimberly Thomas,Orthopedic,Western Cape
+417,Robert Scott,Radiologist,KZN
+418,William Lee,Orthopedic,Gauteng
+419,Angela Salazar,Orthopedic,Western Cape
+420,Tamara Ramos,General Practitioner,Western Cape
+421,Jason Ward,Orthopedic,Gauteng
+422,Donald Johnson,Orthopedic,KZN
+423,Larry Anderson,Dentist,Gauteng
+424,Michael Murray,Radiologist,Western Cape
+425,John Young,Radiologist,Gauteng
+426,Mark Long,General Practitioner,Western Cape
+427,Shannon Coleman,Radiologist,Gauteng
+428,Patrick Rodriguez,Orthopedic,KZN
+429,Eric Rodriguez,Radiologist,Western Cape
+430,Robert White,Dentist,KZN
+431,Marcus Ray,Orthopedic,KZN
+432,Alexis Kramer,Dentist,KZN
+433,Darren Rodriguez,Dentist,KZN
+434,Troy Powers,General Practitioner,Western Cape
+435,Melissa Reid,General Practitioner,Western Cape
+436,Sarah Clark,General Practitioner,Gauteng
+437,Peter Robinson,Orthopedic,Western Cape
+438,Nicholas Moreno,Radiologist,Gauteng
+439,Donald Johnson,Orthopedic,Gauteng
+440,Kaitlyn Hicks,General Practitioner,Gauteng
+441,Justin Harris,Orthopedic,Gauteng
+442,Todd Guzman,Radiologist,KZN
+443,Brandon Ortiz,General Practitioner,Gauteng
+444,Anthony Walker,Orthopedic,Gauteng
+445,Bob Martinez,Dentist,Gauteng
+446,Angela Keller,Dentist,KZN
+447,Danielle Barrett,Orthopedic,Gauteng
+448,Brady Lindsey,Radiologist,Western Cape
+449,Corey Miller,General Practitioner,Gauteng
+450,Alexandra Brown,Orthopedic,Western Cape
+451,Joseph Gray,Radiologist,Western Cape
+452,Maria Delgado,Orthopedic,Gauteng
+453,Kevin Parker,Radiologist,Western Cape
+454,Kimberly Torres,Dentist,KZN
+455,Kevin Gamble,Radiologist,Gauteng
+456,Michele Martinez,Orthopedic,Western Cape
+457,Roberta Lamb,Orthopedic,KZN
+458,Kevin Collins,Radiologist,KZN
+459,Donna Reese,Orthopedic,Western Cape
+460,Kirsten Campbell,Orthopedic,Western Cape
+461,Nathan Dunn,Dentist,Gauteng
+462,Brooke Morton,General Practitioner,Western Cape
+463,Christopher Hernandez,General Practitioner,Western Cape
+464,Haley Jones,Orthopedic,KZN
+465,Taylor Walker,Dentist,Western Cape
+466,Tina Reyes,Orthopedic,Gauteng
+467,Robert Taylor,General Practitioner,KZN
+468,Kevin Carpenter,Radiologist,Gauteng
+469,Jose Lyons,Dentist,KZN
+470,Ryan Stewart,General Practitioner,Western Cape
+471,Robert Jones,General Practitioner,Western Cape
+472,Nathaniel Johnson,Dentist,Western Cape
+473,Dr. Molly Patterson MD,Dentist,KZN
+474,Jesse Richardson,Dentist,Gauteng
+475,Stacy Reynolds,Dentist,Gauteng
+476,Cassandra Fletcher,Dentist,KZN
+477,Tyler Brennan,Radiologist,Western Cape
+478,Linda Martinez,Dentist,Western Cape
+479,Joel Daniels,General Practitioner,KZN
+480,Lisa Duffy,Orthopedic,KZN
+481,Andrea Armstrong,General Practitioner,Gauteng
+482,Jacob Wright,Radiologist,Gauteng
+483,David Miller,Dentist,KZN
+484,Dr. Juan Martin III,Dentist,Western Cape
+485,Paul Parker,Dentist,KZN
+486,Jason Booth,Dentist,KZN
+487,Joseph Johnson,Orthopedic,Western Cape
+488,Andrew Hansen,General Practitioner,KZN
+489,Mrs. Lisa House,Radiologist,Gauteng
+490,Joy Madden,Dentist,Western Cape
+491,Lauren Soto,Orthopedic,Gauteng
+492,George Glass Jr.,Radiologist,KZN
+493,Susan Evans,Radiologist,Western Cape
+494,Natalie Fox,Dentist,Gauteng
+495,Kara Sparks,Dentist,Gauteng
+496,Casey Johnson,Radiologist,KZN
+497,Stephanie Farley,Dentist,Western Cape
+498,Juan Quinn,Dentist,Gauteng
+499,James Mendez,Radiologist,KZN
+500,Erin Martin,Orthopedic,KZN
+501,Katherine Davis,Dentist,KZN
+502,Christian Mills,General Practitioner,Gauteng
+503,Sharon Kirk,Radiologist,KZN
+504,Peter Gray,Orthopedic,Gauteng
+505,Brittany Solis,Orthopedic,Gauteng
+506,Jamie Meyer,General Practitioner,Gauteng
+507,Jacqueline Williams,Orthopedic,Western Cape
+508,Anthony Mckinney,Radiologist,Gauteng
+509,Samantha Smith,Orthopedic,KZN
+510,Gordon Bruce,Dentist,Gauteng
+511,Tracy Williams,Radiologist,KZN
+512,Janet Miller,Radiologist,Gauteng
+513,Stephen Baker,Radiologist,Western Cape
+514,Anthony Byrd,Radiologist,Western Cape
+515,Terry Rivera MD,General Practitioner,Western Cape
+516,Anthony Maynard,Radiologist,Gauteng
+517,Kevin Harmon,Radiologist,Gauteng
+518,Richard Thornton,General Practitioner,Gauteng
+519,Henry Perez,Radiologist,Western Cape
+520,Ronald Vaughn,Radiologist,Gauteng
+521,Carrie Nguyen,Radiologist,KZN
+522,Mr. Hector Thomas,General Practitioner,Gauteng
+523,Timothy Thompson,Dentist,Western Cape
+524,Samantha Nixon,General Practitioner,KZN
+525,Timothy Holden,Dentist,KZN
+526,Jessica Rogers,Radiologist,Gauteng
+527,Nicholas Noble,General Practitioner,Gauteng
+528,Penny Friedman,Dentist,KZN
+529,Claudia Hart,Dentist,KZN
+530,Jordan Lara,General Practitioner,KZN
+531,Brian Riley,Orthopedic,KZN
+532,Alyssa Day,General Practitioner,Western Cape
+533,Denise Edwards,Dentist,Western Cape
+534,Felicia Warren,Radiologist,Western Cape
+535,Ariana Middleton,General Practitioner,Gauteng
+536,Deborah Velasquez,Dentist,Western Cape
+537,Steven Harrison,Dentist,Gauteng
+538,Kelly David,Dentist,KZN
+539,Michael Hart,Dentist,KZN
+540,Sara Gallegos,General Practitioner,KZN
+541,Evan Jackson,Dentist,Western Cape
+542,Dustin Boyle,General Practitioner,Gauteng
+543,Valerie Weber,Radiologist,Gauteng
+544,Jennifer Martin,Radiologist,Gauteng
+545,Karen Holmes,Orthopedic,Gauteng
+546,David Mcintyre,General Practitioner,Western Cape
+547,Alison Mendez,General Practitioner,Western Cape
+548,Sharon Leon,Dentist,Gauteng
+549,Jason Long,Orthopedic,Gauteng
+550,Jennifer Copeland,Radiologist,Western Cape
+551,Lindsey Chambers,Dentist,Gauteng
+552,Emily Powell,Dentist,Gauteng
+553,Jessica Mendoza,Dentist,Western Cape
+554,Karen Wilcox,General Practitioner,KZN
+555,Madison Hill,Dentist,Gauteng
+556,David Jones,Dentist,Western Cape
+557,William Turner,Dentist,KZN
+558,Rachel Mcintyre,Orthopedic,KZN
+559,Joshua Martinez,General Practitioner,Gauteng
+560,Timothy Fuller,General Practitioner,Western Cape
+561,Debbie Hess,Radiologist,Western Cape
+562,Kendra Williams,Radiologist,Western Cape
+563,Jamie Gardner Jr.,General Practitioner,Western Cape
+564,Kimberly Sanchez,Radiologist,KZN
+565,Michael Stevens,Orthopedic,Western Cape
+566,Rachel Lopez,Orthopedic,Western Cape
+567,Benjamin Harris,General Practitioner,KZN
+568,Matthew Collins,Orthopedic,KZN
+569,Pamela Baxter,Dentist,Western Cape
+570,Jacob Smith,Radiologist,Gauteng
+571,Sandy Roth,General Practitioner,Gauteng
+572,Russell Wallace,Dentist,Western Cape
+573,Travis Wade,Orthopedic,Western Cape
+574,Steven Brown,Dentist,Gauteng
+575,Mary Zimmerman,Dentist,Western Cape
+576,Casey Anderson,Orthopedic,Western Cape
+577,Edward Rivera,Orthopedic,KZN
+578,Crystal Alvarez,Radiologist,Western Cape
+579,Debbie Duncan,General Practitioner,Gauteng
+580,Andrew Thompson,General Practitioner,Western Cape
+581,Timothy Phillips,General Practitioner,Gauteng
+582,Amanda Fitzpatrick,General Practitioner,Western Cape
+583,Patrick Moore,Radiologist,Western Cape
+584,Matthew Burke,Dentist,KZN
+585,Ashley Schultz,Radiologist,Gauteng
+586,David Simmons,Orthopedic,KZN
+587,Christine Williams,Dentist,Western Cape
+588,Ricardo Jennings,Dentist,Western Cape
+589,Edward Harris MD,Dentist,Western Cape
+590,Courtney Hughes,General Practitioner,Gauteng
+591,Benjamin Thompson,Radiologist,Western Cape
+592,Tina Bradley,General Practitioner,Western Cape
+593,Robert Beard,Radiologist,Western Cape
+594,William Hill DDS,Orthopedic,Western Cape
+595,Chris Nielsen,General Practitioner,Western Cape
+596,Sarah Perez,General Practitioner,Gauteng
+597,Elizabeth Neal,General Practitioner,Western Cape
+598,Bradley Myers,General Practitioner,Gauteng
+599,Carrie Davidson,Dentist,Western Cape
+600,Michael Miller,Dentist,Gauteng
+601,Christina Cherry,Dentist,Western Cape
+602,Stephen Chavez,General Practitioner,KZN
+603,Taylor Riley,Radiologist,Gauteng
+604,Paul Stewart,Radiologist,Gauteng
+605,Elizabeth Abbott,Radiologist,KZN
+606,Brooke Mason,Dentist,Gauteng
+607,Sabrina Sweeney,Radiologist,KZN
+608,Pamela Jordan,Dentist,Gauteng
+609,Peggy Rowland DDS,General Practitioner,Gauteng
+610,Miss Melanie Mendez,Dentist,KZN
+611,Malik Johnson,Orthopedic,Gauteng
+612,Jason Martinez,Radiologist,Gauteng
+613,Dawn Cook,Orthopedic,Western Cape
+614,Mia Harris,Radiologist,Gauteng
+615,Susan Freeman,General Practitioner,KZN
+616,Vanessa Warren,Radiologist,Gauteng
+617,Timothy Smith,Orthopedic,KZN
+618,Valerie Graves,Radiologist,Gauteng
+619,Erik Dalton,General Practitioner,KZN
+620,Kathy Vaughn,Dentist,KZN
+621,Eric Stevenson,General Practitioner,KZN
+622,Ashley Smith,Orthopedic,KZN
+623,Pamela Craig,General Practitioner,KZN
+624,Brian Harrington,Dentist,KZN
+625,Eric Lopez,Radiologist,Gauteng
+626,Tracy Murray,Radiologist,KZN
+627,Megan Dunn,Radiologist,Gauteng
+628,Janet Meadows,General Practitioner,KZN
+629,Ashley Hamilton,Radiologist,KZN
+630,Kimberly Elliott,Orthopedic,Gauteng
+631,Megan Price,Dentist,KZN
+632,Jeffrey Ford,Radiologist,KZN
+633,Jeffery Lester,Radiologist,Gauteng
+634,Joshua Ramirez,Orthopedic,KZN
+635,Tamara Conway,Orthopedic,Western Cape
+636,Jeffrey Paul,Radiologist,KZN
+637,Michael Freeman,General Practitioner,Gauteng
+638,Amanda Sandoval,General Practitioner,Western Cape
+639,Steven Wood,Dentist,Gauteng
+640,Rebecca Ball,Orthopedic,KZN
+641,Jennifer Bond,Dentist,KZN
+642,Daniel Wiggins,General Practitioner,Gauteng
+643,Glenn Taylor,Orthopedic,KZN
+644,Lori Dean MD,Orthopedic,Western Cape
+645,Sandy Davis,Orthopedic,KZN
+646,Karen Sullivan,General Practitioner,KZN
+647,Kevin Robinson,Radiologist,Western Cape
+648,Laura Morris,Radiologist,Western Cape
+649,Jorge Sutton,General Practitioner,Western Cape
+650,Brandy Hughes,Orthopedic,Gauteng
+651,John Shaw,Dentist,Western Cape
+652,Jennifer Beck,Dentist,Western Cape
+653,Jack Holland,Dentist,Gauteng
+654,Scott Young,Orthopedic,KZN
+655,Andrea Miles,General Practitioner,Western Cape
+656,Lisa Brennan,Radiologist,Western Cape
+657,Autumn Johnson,Radiologist,Western Cape
+658,Jose Sanders,Radiologist,KZN
+659,Noah Brooks,General Practitioner,Western Cape
+660,Kyle Pruitt,Orthopedic,Western Cape
+661,Christopher Sanchez,Orthopedic,Gauteng
+662,Dawn Howard,Radiologist,Gauteng
+663,David Gallegos,Radiologist,KZN
+664,Deanna Rogers,General Practitioner,KZN
+665,Thomas Holmes,General Practitioner,Gauteng
+666,Jennifer Lozano,Radiologist,Western Cape
+667,Patricia Moore,Radiologist,Gauteng
+668,Tamara Morgan,Radiologist,Gauteng
+669,Shawn Porter,Dentist,Gauteng
+670,Rebecca Johnson,Dentist,Western Cape
+671,Joshua Chapman MD,Orthopedic,Western Cape
+672,Andrew Kirk,Radiologist,KZN
+673,James Alexander,Dentist,Western Cape
+674,Chris Walker MD,Dentist,Gauteng
+675,Heather Ramirez,Orthopedic,KZN
+676,Jeffrey Ruiz,Dentist,KZN
+677,Joseph Weaver,General Practitioner,Gauteng
+678,Chad Jones,Dentist,Gauteng
+679,Justin Farmer,Dentist,Western Cape
+680,Bryan Johns,Orthopedic,KZN
+681,Mr. Joseph Robinson MD,Radiologist,Gauteng
+682,Brandy Hall,Orthopedic,Western Cape
+683,Michael White,Radiologist,KZN
+684,Robin Carlson,General Practitioner,Gauteng
+685,Brianna Adams,Dentist,Gauteng
+686,Eric Santos,Orthopedic,Gauteng
+687,Thomas Roman,General Practitioner,Western Cape
+688,David Valdez,Dentist,Gauteng
+689,Sarah Reyes,Radiologist,Western Cape
+690,Jeffrey Harris,Dentist,Western Cape
+691,Eric Barton II,General Practitioner,Gauteng
+692,Maria Patterson,General Practitioner,Gauteng
+693,Timothy Lawson,Radiologist,Gauteng
+694,Dr. Robert Atkins,Dentist,KZN
+695,James Thompson,Radiologist,Gauteng
+696,Craig Powell,Orthopedic,KZN
+697,Jeremy Estrada,Orthopedic,KZN
+698,Jane Rogers,Orthopedic,Western Cape
+699,Cameron Turner,General Practitioner,Western Cape
+700,Megan Hernandez,Radiologist,KZN
+701,Jasmine Griffin,General Practitioner,Gauteng
+702,Emily Smith,General Practitioner,Western Cape
+703,William Boyd,Orthopedic,Gauteng
+704,Tammy White,Dentist,KZN
+705,Alyssa Steele MD,General Practitioner,Gauteng
+706,Chase Cox,General Practitioner,KZN
+707,Mariah Taylor,Radiologist,Western Cape
+708,Frederick Carter,General Practitioner,KZN
+709,Sara Evans,Orthopedic,Western Cape
+710,Ellen Mooney,Dentist,Gauteng
+711,Kimberly Thompson,Dentist,Western Cape
+712,David Bradshaw,General Practitioner,Western Cape
+713,Paula Johnson,General Practitioner,Western Cape
+714,Tanner Leon,Radiologist,Western Cape
+715,Margaret Riley,Dentist,Gauteng
+716,Melissa Sanders,Dentist,Gauteng
+717,Christine Williamson,General Practitioner,Western Cape
+718,Kristin Gordon,Radiologist,Gauteng
+719,Anthony York MD,Orthopedic,Gauteng
+720,Ashley Taylor,Radiologist,KZN
+721,Diane Snow,General Practitioner,KZN
+722,Katherine Joyce,Radiologist,Gauteng
+723,Mary Suarez,Radiologist,Gauteng
+724,Paul Lynch,Orthopedic,Western Cape
+725,Gregory Miller,Radiologist,KZN
+726,Victoria Green,General Practitioner,Gauteng
+727,Samantha Charles,Dentist,Western Cape
+728,Christopher Armstrong,Radiologist,KZN
+729,Crystal Oconnor,Dentist,KZN
+730,Richard Willis,Dentist,KZN
+731,Benjamin Palmer,Dentist,KZN
+732,Rita Schneider,Radiologist,KZN
+733,Dr. Connor Williams,General Practitioner,Gauteng
+734,Mary Ramos,Orthopedic,Gauteng
+735,Andrew Ramos,General Practitioner,KZN
+736,Shannon Salas,General Practitioner,KZN
+737,Pamela Wright,Dentist,Western Cape
+738,Dr. Grace Williams DDS,Orthopedic,Gauteng
+739,Kathy Graham,Dentist,Western Cape
+740,Tyler Russell,Radiologist,Gauteng
+741,Kevin Williams,General Practitioner,Gauteng
+742,Donald Lopez,Radiologist,Gauteng
+743,Colin Macias,Orthopedic,KZN
+744,Joshua Diaz,Dentist,KZN
+745,Mrs. Sylvia Freeman,Radiologist,KZN
+746,Troy Dean,General Practitioner,KZN
+747,Kurt Williams,Dentist,Western Cape
+748,Adrienne Lopez,Dentist,Gauteng
+749,Brittney Ortega,Orthopedic,Western Cape
+750,Nathan Sutton,Radiologist,KZN
+751,Sara Weber,General Practitioner,Western Cape
+752,Alexander Perry,General Practitioner,KZN
+753,Zachary Perkins,Dentist,KZN
+754,Jennifer Walker,Orthopedic,Gauteng
+755,Elizabeth Castro MD,Radiologist,Gauteng
+756,Amber Hale,Dentist,Western Cape
+757,Tracey Park,General Practitioner,Western Cape
+758,Michael Hoffman,Radiologist,KZN
+759,Stephen Alvarez,Radiologist,Western Cape
+760,Destiny Stephenson,General Practitioner,Western Cape
+761,Jo Cobb,General Practitioner,Gauteng
+762,Mckenzie Love,Dentist,Gauteng
+763,Aaron Boyd,Orthopedic,KZN
+764,Cathy Paul,Orthopedic,Western Cape
+765,Kimberly Chen,General Practitioner,KZN
+766,Michael Allen,Radiologist,KZN
+767,Megan Dalton,Orthopedic,Gauteng
+768,Michael Rosales,Orthopedic,Western Cape
+769,Dawn Johnston,Radiologist,Western Cape
+770,Brandon Andrews,General Practitioner,Western Cape
+771,Eric Bradshaw,Radiologist,Western Cape
+772,Nancy Barajas,Orthopedic,Western Cape
+773,Christina Rowland,Orthopedic,Western Cape
+774,Peter Rhodes,Radiologist,Western Cape
+775,Anthony Mckinney,General Practitioner,Western Cape
+776,Tammy Smith,Orthopedic,KZN
+777,Mr. Shane Flores,General Practitioner,Gauteng
+778,Jordan Charles,Dentist,Western Cape
+779,Aaron Wilson,Orthopedic,Gauteng
+780,Timothy Willis PhD,Radiologist,Western Cape
+781,Natalie Barnes,Orthopedic,Gauteng
+782,Lisa Gregory,General Practitioner,KZN
+783,Lauren Pearson,Orthopedic,KZN
+784,James Burgess,General Practitioner,Western Cape
+785,Jose Shepard,Orthopedic,KZN
+786,Michael Flores,Dentist,Gauteng
+787,Blake Poole,Orthopedic,KZN
+788,Renee Hodge,Radiologist,Gauteng
+789,Samuel Oliver,Dentist,KZN
+790,Cody Gomez,Dentist,KZN
+791,Donald Preston,Orthopedic,Gauteng
+792,Dylan Kramer,Orthopedic,KZN
+793,Lisa Mcdonald,Radiologist,KZN
+794,Anthony Howell,Dentist,KZN
+795,Vincent Butler,Dentist,Gauteng
+796,Harold Barrett,Orthopedic,Gauteng
+797,Melody Jenkins,Dentist,Gauteng
+798,Kevin Arnold,Dentist,Western Cape
+799,Kayla Bush,General Practitioner,KZN
+800,Michael Davis,Orthopedic,KZN
+801,John Thomas,Orthopedic,KZN
+802,Leah Olson,Orthopedic,Western Cape
+803,Kaitlyn Wagner,Radiologist,KZN
+804,Glenda Preston,Orthopedic,Gauteng
+805,Mark Matthews,Radiologist,Western Cape
+806,Crystal Hernandez,Dentist,KZN
+807,Dr. Isaac Smith II,Orthopedic,Western Cape
+808,Karen White,Orthopedic,Gauteng
+809,Julie Smith,Dentist,KZN
+810,Danielle Walters,Radiologist,KZN
+811,Norman Murray,Dentist,KZN
+812,Mark Gross,Dentist,Western Cape
+813,Steven Hernandez,Dentist,Gauteng
+814,Jessica Burnett,General Practitioner,KZN
+815,Julie Santos,General Practitioner,Gauteng
+816,Richard Chapman,Orthopedic,Western Cape
+817,Natalie Haney,Dentist,KZN
+818,Tanner Hatfield,Orthopedic,Gauteng
+819,Alexander Brennan,Radiologist,KZN
+820,Robert Palmer,Dentist,Western Cape
+821,Anna Hernandez,Orthopedic,KZN
+822,Justin Gonzalez,Radiologist,KZN
+823,Miss Sonya Martinez,General Practitioner,Gauteng
+824,Alyssa Bell,Orthopedic,Gauteng
+825,Michael Moses,Radiologist,Western Cape
+826,Justin Thompson,Radiologist,Western Cape
+827,Anna Blevins,Orthopedic,KZN
+828,Shawn Johnson,Orthopedic,Western Cape
+829,Ashley Thomas,Radiologist,Western Cape
+830,Jared Pace,Dentist,Gauteng
+831,Kristi Gordon,Dentist,Gauteng
+832,James Quinn,General Practitioner,Gauteng
+833,Jason Gonzales,Dentist,Western Cape
+834,Dawn Olsen,Radiologist,Gauteng
+835,Andrew Rojas,Radiologist,Western Cape
+836,Andrew Taylor,General Practitioner,Western Cape
+837,Tonya Simpson,Dentist,Western Cape
+838,James Thompson,Radiologist,Western Cape
+839,Rodney Rogers,Orthopedic,Western Cape
+840,Kelly Murphy,General Practitioner,Gauteng
+841,Jesse Barnes,Dentist,Western Cape
+842,Gina Farrell,General Practitioner,Western Cape
+843,Jessica Johnson,Dentist,Gauteng
+844,Steve Alexander,Radiologist,Western Cape
+845,Alexis Salas,Orthopedic,Western Cape
+846,Terry Cruz,General Practitioner,Western Cape
+847,Faith Martinez,General Practitioner,Western Cape
+848,Rachel Garza,Dentist,KZN
+849,William Delgado,Orthopedic,Gauteng
+850,Michael Vaughn,Orthopedic,Gauteng
+851,Jacob Neal,General Practitioner,Gauteng
+852,Steven Benson,Dentist,Western Cape
+853,Keith Garcia,Orthopedic,Gauteng
+854,Anthony Howard,Radiologist,Western Cape
+855,Hannah Cohen,General Practitioner,Western Cape
+856,Andrew Peterson,General Practitioner,Gauteng
+857,Tyler Bartlett,Orthopedic,KZN
+858,Barbara Olson,Orthopedic,Western Cape
+859,Christopher Booth,General Practitioner,Western Cape
+860,Michael Scott,Orthopedic,Western Cape
+861,Andrew Walker,Orthopedic,Gauteng
+862,William Williamson,Dentist,KZN
+863,Amber Lewis,General Practitioner,Western Cape
+864,Joseph Stewart,Radiologist,KZN
+865,William King,Orthopedic,Western Cape
+866,Cheryl Thomas,Orthopedic,KZN
+867,Mark Brewer,Orthopedic,Western Cape
+868,James Tran,Dentist,Gauteng
+869,Cassandra Mcconnell,Orthopedic,Western Cape
+870,Matthew Johnson,Dentist,Western Cape
+871,Eric Johnson,General Practitioner,KZN
+872,Janice Gould,Orthopedic,KZN
+873,David Kim,Dentist,Gauteng
+874,Monica Lamb,Dentist,KZN
+875,Elizabeth Thompson,Orthopedic,KZN
+876,Matthew Everett,General Practitioner,KZN
+877,John Walker,Dentist,KZN
+878,Dr. Thomas Moore DDS,Radiologist,Gauteng
+879,Sarah Waller,Radiologist,KZN
+880,Molly Rodriguez,General Practitioner,KZN
+881,Justin Woods II,Dentist,Western Cape
+882,Brian Henry,Orthopedic,KZN
+883,Elizabeth Roberts,General Practitioner,KZN
+884,Samuel Underwood,Orthopedic,Gauteng
+885,Frances Young,General Practitioner,Gauteng
+886,Rachel Schroeder MD,Dentist,KZN
+887,Jeffrey Li,Dentist,Gauteng
+888,Becky Wolfe,Dentist,KZN
+889,David Spencer,Dentist,Western Cape
+890,Austin Thornton,General Practitioner,KZN
+891,Kenneth Anderson MD,Dentist,KZN
+892,Kevin Garcia,General Practitioner,Gauteng
+893,Patrick Wilson,Dentist,KZN
+894,Rebecca Beck,Orthopedic,KZN
+895,Brent Knight,General Practitioner,KZN
+896,Casey Morris,Dentist,Western Cape
+897,Donna Clark,Orthopedic,Western Cape
+898,Andrew Wallace,General Practitioner,KZN
+899,Krista Rosales,Orthopedic,KZN
+900,Dennis Harvey,General Practitioner,Gauteng
+901,Wanda Johnson,Radiologist,KZN
+902,Erik Lopez,General Practitioner,Western Cape
+903,Adam Castro,Orthopedic,Gauteng
+904,Desiree Phillips,Dentist,Gauteng
+905,William Price,Orthopedic,Western Cape
+906,John Cox,Orthopedic,Western Cape
+907,Jessica Morris,Dentist,KZN
+908,Rachael Thompson,General Practitioner,Western Cape
+909,Michael Hernandez,Dentist,Gauteng
+910,Charles Ramos II,Orthopedic,Western Cape
+911,Sean Garrett,Orthopedic,Gauteng
+912,Rachael Griffin,Dentist,Western Cape
+913,Willie Jefferson,Dentist,Western Cape
+914,Susan Owen,Orthopedic,Western Cape
+915,David Brewer,General Practitioner,Gauteng
+916,Melissa Ortiz,Orthopedic,Western Cape
+917,Tracy Marsh,Radiologist,KZN
+918,Nicole Kirby,Radiologist,Western Cape
+919,Andrew Skinner,Dentist,Western Cape
+920,Samantha Jordan,Dentist,KZN
+921,Roberto Taylor,Orthopedic,KZN
+922,Paul Martinez,Dentist,Western Cape
+923,Nicole Butler,Dentist,Western Cape
+924,William Brown,General Practitioner,Western Cape
+925,Jacqueline Harris,General Practitioner,KZN
+926,Morgan Heath,Orthopedic,KZN
+927,Kelly Charles,General Practitioner,Western Cape
+928,Dylan Watkins,General Practitioner,Gauteng
+929,Lisa Cobb,Dentist,Western Cape
+930,Robert Garcia,Orthopedic,Gauteng
+931,Gregory Davidson,Radiologist,Western Cape
+932,Dr. Debra Rogers,General Practitioner,KZN
+933,Craig Kim,General Practitioner,KZN
+934,Jacqueline Jones,Radiologist,Gauteng
+935,Jennifer Hanson,Orthopedic,KZN
+936,Ryan Woodward,General Practitioner,KZN
+937,Julia Adams,Dentist,KZN
+938,Edward Swanson,Orthopedic,Gauteng
+939,Jessica Bennett,General Practitioner,KZN
+940,Jack Wells,General Practitioner,Gauteng
+941,Jason Swanson,General Practitioner,Western Cape
+942,Jeremy Carr,Orthopedic,Gauteng
+943,Dale Johnson,General Practitioner,Gauteng
+944,Robert Smith,Orthopedic,Gauteng
+945,Matthew Manning,Dentist,Gauteng
+946,Corey Johnson,Dentist,Western Cape
+947,Ronnie Brown,Dentist,Gauteng
+948,Deborah Mullen,Orthopedic,Western Cape
+949,Matthew Miller,Dentist,Gauteng
+950,Nicholas Obrien,Orthopedic,Gauteng
+951,Claudia Wright,Dentist,KZN
+952,Zachary Dawson,Orthopedic,Western Cape
+953,Michael Campos,Radiologist,KZN
+954,Johnny Adams,Radiologist,KZN
+955,Alan Burke,Dentist,Gauteng
+956,Paul Morse,Radiologist,Western Cape
+957,Daniel Nelson,Dentist,KZN
+958,Elizabeth Garza,Orthopedic,KZN
+959,Gilbert Moreno,General Practitioner,KZN
+960,Joseph Golden,Dentist,KZN
+961,Jeffrey Richardson,Radiologist,Gauteng
+962,Shane Adkins,Dentist,Western Cape
+963,Christopher West,Radiologist,Gauteng
+964,Nancy Brooks,Dentist,KZN
+965,Alex Dixon,General Practitioner,KZN
+966,Dr. Taylor Murray,Radiologist,KZN
+967,Carolyn Kelley,Orthopedic,Western Cape
+968,Shane Diaz,Orthopedic,Western Cape
+969,Pamela Marsh,Dentist,Western Cape
+970,Yvette Cummings,Orthopedic,Western Cape
+971,Kathryn Pena,Orthopedic,Western Cape
+972,Gabriel Wells,Radiologist,KZN
+973,Amanda Evans,Radiologist,Western Cape
+974,Tammy Sims,Orthopedic,KZN
+975,Danielle Boyd,Dentist,KZN
+976,Gina York,General Practitioner,Gauteng
+977,Dawn Sweeney,Orthopedic,Gauteng
+978,Robert Dean,Dentist,Gauteng
+979,Anne Collins,Dentist,Western Cape
+980,Richard Alexander,Radiologist,Gauteng
+981,Thomas Zhang,Dentist,Gauteng
+982,Patricia Myers,Radiologist,Western Cape
+983,Sharon Wood,Radiologist,KZN
+984,John Henry,Orthopedic,Gauteng
+985,Ryan Larsen,Radiologist,Gauteng
+986,Marcus Reyes,Orthopedic,Western Cape
+987,Jessica Gordon,Orthopedic,Western Cape
+988,Cynthia Williams,Radiologist,KZN
+989,Anita Wilson,Orthopedic,Western Cape
+990,Tina Olson,Radiologist,Gauteng
+991,Mary Stone,Dentist,Gauteng
+992,Karen Thomas,Dentist,Western Cape
+993,Stephen Thomas,Dentist,KZN
+994,Julia Robinson,Radiologist,KZN
+995,Adam Cox,Orthopedic,Western Cape
+996,Bridget Lopez,Dentist,Western Cape
+997,Eduardo Fuentes,Radiologist,KZN
+998,Christine Juarez,Dentist,KZN
+999,John Huerta,General Practitioner,Gauteng
+1000,Douglas Stephens,Orthopedic,KZN
+1001,Brittany Hicks,Orthopedic,Gauteng
+1002,William Boyd,General Practitioner,KZN
+1003,Holly Wolfe,Radiologist,Gauteng
+1004,James Pruitt,Radiologist,Gauteng
+1005,Eddie Wagner,Dentist,Gauteng
+1006,Ashley Jones,Orthopedic,Gauteng
+1007,David Frye,General Practitioner,Western Cape
+1008,Kelli Alexander,Dentist,Western Cape
+1009,Amanda Johnson,General Practitioner,Western Cape
+1010,Lisa Camacho,Radiologist,Western Cape
+1011,Yolanda Case,Radiologist,KZN
+1012,Brian Miller,Orthopedic,Western Cape
+1013,Sally Lucas,Radiologist,Gauteng
+1014,Amber Thornton,Radiologist,Gauteng
+1015,James Martinez,Radiologist,KZN
+1016,Gary Castaneda,Radiologist,Western Cape
+1017,Christopher Franklin,General Practitioner,Western Cape
+1018,Steven Oconnor,Dentist,KZN
+1019,Katherine Barnes,Orthopedic,Western Cape
+1020,Joshua Potts,Orthopedic,Western Cape
+1021,Mark Bryant,Dentist,Western Cape
+1022,Michael Freeman,Orthopedic,KZN
+1023,Tracy Adams,Orthopedic,Western Cape
+1024,Whitney Barrett,Dentist,KZN
+1025,Hannah Maynard,Orthopedic,KZN
+1026,Bradley Fields,General Practitioner,Gauteng
+1027,Theresa Douglas,Radiologist,Western Cape
+1028,Fred Palmer,Orthopedic,Western Cape
+1029,Lisa Chambers,Dentist,Gauteng
+1030,Robert Hernandez,Radiologist,KZN
+1031,David Dunlap,Radiologist,KZN
+1032,James Montoya,Orthopedic,KZN
+1033,Cristian Alvarez,Orthopedic,Gauteng
+1034,Denise Henderson,Orthopedic,Western Cape
+1035,Wanda Hendricks,Dentist,Gauteng
+1036,James Smith,Orthopedic,Western Cape
+1037,Maurice Cook,General Practitioner,Western Cape
+1038,Matthew Byrd,Orthopedic,KZN
+1039,Steven Kirby,Radiologist,Gauteng
+1040,Jason Clark,Radiologist,KZN
+1041,Angela Allen,General Practitioner,KZN
+1042,Brandy Howell,Orthopedic,Gauteng
+1043,Amanda Barrera,General Practitioner,KZN
+1044,Bryan Mccoy,General Practitioner,Western Cape
+1045,Julia Stephens,Radiologist,KZN
+1046,Joshua Sanchez,Dentist,KZN
+1047,Leon Adkins,Radiologist,Western Cape
+1048,Megan Miller,General Practitioner,KZN
+1049,Dylan Bailey,Radiologist,Western Cape
+1050,John Jackson,Radiologist,KZN
+1051,Rebekah Rodriguez,Radiologist,Western Cape
+1052,Dr. Steven Nelson Jr.,Orthopedic,Western Cape
+1053,Robert Calhoun,General Practitioner,Gauteng
+1054,Jennifer Olson,General Practitioner,Gauteng
+1055,Phillip Carter,Radiologist,KZN
+1056,Kelly Davis,General Practitioner,Western Cape
+1057,Dale Barnes,General Practitioner,Gauteng
+1058,Katherine Lam,Orthopedic,Western Cape
+1059,Melissa Mclaughlin,Dentist,Gauteng
+1060,Joseph Matthews,Dentist,KZN
+1061,Jennifer Anderson,Orthopedic,KZN
+1062,Matthew Jones,Radiologist,Gauteng
+1063,Tabitha Hester,Dentist,Gauteng
+1064,Cassandra Nicholson,General Practitioner,Western Cape
+1065,Daniel Mcknight,Dentist,Western Cape
+1066,Kenneth Jones,Orthopedic,Western Cape
+1067,Paul Alexander,General Practitioner,Western Cape
+1068,Russell Pruitt,Orthopedic,Gauteng
+1069,Crystal Hughes,General Practitioner,Western Cape
+1070,Melissa Mason,Orthopedic,KZN
+1071,Jacob Hill,Dentist,Gauteng
+1072,Morgan Carpenter,Orthopedic,Gauteng
+1073,Kevin Rogers,Radiologist,KZN
+1074,Melissa Martin,General Practitioner,KZN
+1075,Alexander Lewis,Radiologist,Gauteng
+1076,Sarah Neal,General Practitioner,Western Cape
+1077,Oscar Bailey,General Practitioner,Western Cape
+1078,Victoria Lewis,Dentist,KZN
+1079,Patrick Green,Radiologist,Gauteng
+1080,Justin Petty,Dentist,Gauteng
+1081,Sophia Navarro,Radiologist,Gauteng
+1082,Raymond Miller,Radiologist,KZN
+1083,Cindy Green,Dentist,KZN
+1084,Ethan Patterson,Orthopedic,KZN
+1085,Julie Lawrence,Dentist,Western Cape
+1086,Jennifer Anderson,Dentist,Western Cape
+1087,Henry Esparza,Orthopedic,Gauteng
+1088,Timothy Guerra,General Practitioner,KZN
+1089,Daniel Armstrong,Dentist,Western Cape
+1090,Nichole Clements,General Practitioner,Western Cape
+1091,Alexandria Fuller,Orthopedic,Gauteng
+1092,Larry Bridges,Dentist,Western Cape
+1093,Ruth Francis,General Practitioner,KZN
+1094,Amanda White,Radiologist,KZN
+1095,Crystal Howard,Radiologist,Western Cape
+1096,Brenda Huynh,Dentist,KZN
+1097,Rebecca Rodriguez,Dentist,Western Cape
+1098,Laura Day,Dentist,Western Cape
+1099,Zachary Lindsey,Radiologist,Gauteng
+1100,Kevin Flores,Orthopedic,Western Cape
+1101,Joshua Weaver,Dentist,Western Cape
+1102,Andrew Fuller,Dentist,Gauteng
+1103,Leslie Dickerson,Orthopedic,KZN
+1104,Damon Jacobson,Orthopedic,KZN
+1105,Rachael Dean,General Practitioner,Western Cape
+1106,Wendy Cooper,General Practitioner,Western Cape
+1107,Kimberly Rosario,Dentist,Gauteng
+1108,Roy Dunn,General Practitioner,KZN
+1109,Barbara White,Radiologist,Gauteng
+1110,Renee Brown,General Practitioner,KZN
+1111,David Gray,Dentist,Western Cape
+1112,Miranda Mclean,Orthopedic,Gauteng
+1113,Mariah White,Radiologist,Gauteng
+1114,Heidi Dodson,Radiologist,KZN
+1115,Jose Boyd,Dentist,Western Cape
+1116,Dawn Meyer,Dentist,KZN
+1117,Tamara Dalton,Orthopedic,Western Cape
+1118,Vickie Carter,Orthopedic,KZN
+1119,Robert Bowman,Orthopedic,KZN
+1120,Tina Morris,Radiologist,Western Cape
+1121,Tanner Garcia,General Practitioner,Western Cape
+1122,Michael Shelton,General Practitioner,Western Cape
+1123,Robert Diaz,Dentist,KZN
+1124,Hector Conner,Radiologist,KZN
+1125,John Griffin,Radiologist,Western Cape
+1126,James Molina MD,General Practitioner,Western Cape
+1127,Sabrina Brown,Radiologist,Western Cape
+1128,Emily Mcneil,General Practitioner,KZN
+1129,Elizabeth Jones,Dentist,Western Cape
+1130,Mario Mcdaniel,General Practitioner,Gauteng
+1131,Tina Davis,Radiologist,Gauteng
+1132,Daniel Shaffer,General Practitioner,Gauteng
+1133,Seth Walker,Orthopedic,Gauteng
+1134,Anthony Armstrong,General Practitioner,KZN
+1135,Dawn Green,Radiologist,Western Cape
+1136,Meghan Scott,Radiologist,Gauteng
+1137,Donald Carter,Dentist,Western Cape
+1138,Michael Clark,Dentist,Western Cape
+1139,Nathan English,Dentist,Western Cape
+1140,Ian Townsend,Dentist,KZN
+1141,David Howard,General Practitioner,Gauteng
+1142,John Smith,Dentist,Gauteng
+1143,Natalie Wolfe,Dentist,KZN
+1144,Timothy Williams,Dentist,KZN
+1145,Krista Carpenter,Dentist,KZN
+1146,Stephen Martin,Dentist,KZN
+1147,Mark Lewis,Dentist,Gauteng
+1148,Karen Marsh,Orthopedic,KZN
+1149,Stephanie Daniels MD,General Practitioner,Western Cape
+1150,Hayden Andrade,Orthopedic,Western Cape
+1151,Emily Chandler,Dentist,KZN
+1152,Alisha Williamson,General Practitioner,Western Cape
+1153,Daniel Carroll,General Practitioner,Gauteng
+1154,Tony Mathews,General Practitioner,Western Cape
+1155,Courtney Sanchez,Orthopedic,KZN
+1156,Lisa Sampson,Radiologist,Western Cape
+1157,Jason Cannon,Radiologist,Western Cape
+1158,Michelle Parker,Orthopedic,Gauteng
+1159,Robert Orozco,Orthopedic,Gauteng
+1160,Alex Wise,Dentist,Western Cape
+1161,Bonnie Villa,General Practitioner,Gauteng
+1162,Annette Romero,Dentist,Western Cape
+1163,Dustin Cooper,Radiologist,Western Cape
+1164,Dr. Juan Aguilar MD,Dentist,Gauteng
+1165,Lauren Fuentes,Orthopedic,KZN
+1166,Scott Rogers,Radiologist,Gauteng
+1167,Michael Williams,Orthopedic,Western Cape
+1168,Ernest Goodman,General Practitioner,Gauteng
+1169,Peter Miller,Dentist,Gauteng
+1170,Angela Cobb,Radiologist,Western Cape
+1171,David Lopez,Radiologist,Western Cape
+1172,Claire Barnes,Radiologist,KZN
+1173,Christopher Kim,Dentist,KZN
+1174,Scott Mack MD,Orthopedic,Gauteng
+1175,Katherine Jackson,Radiologist,KZN
+1176,Catherine York,General Practitioner,KZN
+1177,John Hunter,Orthopedic,KZN
+1178,Katherine Simmons,Dentist,Western Cape
+1179,Bruce Anderson,Radiologist,Western Cape
+1180,Steven Ramirez,General Practitioner,KZN
+1181,John Allen,Orthopedic,KZN
+1182,Heather Butler,Orthopedic,Gauteng
+1183,Chelsea Bailey,Radiologist,Western Cape
+1184,Pamela Williams,Orthopedic,KZN
+1185,Dustin Tucker,Dentist,Gauteng
+1186,Gabriel Watkins,General Practitioner,KZN
+1187,Christina Hawkins,Dentist,Western Cape
+1188,Colleen Armstrong,Orthopedic,Gauteng
+1189,Taylor Martin,General Practitioner,Western Cape
+1190,Heather Davis,Radiologist,Western Cape
+1191,Michael Parrish,Dentist,KZN
+1192,Robert Avery,Orthopedic,Gauteng
+1193,James Cole,General Practitioner,KZN
+1194,Douglas Robinson,Orthopedic,Western Cape
+1195,Eric Jones,General Practitioner,Gauteng
+1196,Alison Chang,Orthopedic,Western Cape
+1197,Johnny Lozano,Radiologist,KZN
+1198,Monica Taylor,Orthopedic,Gauteng
+1199,Christina Newton,General Practitioner,Gauteng
+1200,Patrick Davis,Dentist,Gauteng
+1201,Kent Mcdonald,General Practitioner,KZN
+1202,Jacob Gould,Dentist,Western Cape
+1203,Lisa Boyd,General Practitioner,Western Cape
+1204,Scott Liu,Dentist,KZN
+1205,Justin Harris,Radiologist,Gauteng
+1206,Carl Cox,Orthopedic,KZN
+1207,Laurie Taylor,Dentist,Gauteng
+1208,David Hall,Dentist,KZN
+1209,Carmen Tapia PhD,General Practitioner,Gauteng
+1210,Dawn Green,General Practitioner,Gauteng
+1211,Kristin Walker,Dentist,KZN
+1212,Rhonda Holloway,Radiologist,KZN
+1213,Chad Pierce,General Practitioner,Gauteng
+1214,April Terrell,General Practitioner,Gauteng
+1215,Charlotte Martin,Radiologist,KZN
+1216,Sara Russell,Orthopedic,Gauteng
+1217,Kenneth Wilson,Radiologist,Gauteng
+1218,Shari Skinner,Radiologist,Western Cape
+1219,Kevin Chapman,General Practitioner,KZN
+1220,Michael Perkins,General Practitioner,Western Cape
+1221,Joyce Lewis,Orthopedic,Western Cape
+1222,Patricia Harrell,General Practitioner,Western Cape
+1223,Sydney Wilson,General Practitioner,KZN
+1224,Marisa Miller,General Practitioner,KZN
+1225,Casey Moore,Dentist,Gauteng
+1226,Linda Olson,General Practitioner,Western Cape
+1227,Dawn Cooper,General Practitioner,Gauteng
+1228,Andrew Lee,Dentist,KZN
+1229,Michael Williamson,Dentist,KZN
+1230,Angel Brown,Orthopedic,KZN
+1231,Diana Mclean,Radiologist,Gauteng
+1232,Maria Morris,Orthopedic,Western Cape
+1233,Lauren Acevedo,Orthopedic,Gauteng
+1234,Matthew Fletcher MD,Radiologist,Gauteng
+1235,Craig Robertson,General Practitioner,Gauteng
+1236,Richard Nguyen,General Practitioner,Western Cape
+1237,Kelly Lynn,General Practitioner,Western Cape
+1238,Richard Holmes,Dentist,Western Cape
+1239,Jason Henderson,Orthopedic,KZN
+1240,Erika Herrera,General Practitioner,Gauteng
+1241,Cassidy Jackson,Orthopedic,Western Cape
+1242,Eduardo Jensen,Orthopedic,KZN
+1243,Vincent Benitez,General Practitioner,Gauteng
+1244,Christopher Harris,General Practitioner,Western Cape
+1245,Sabrina Pacheco,Dentist,Western Cape
+1246,Kathryn Garcia,General Practitioner,KZN
+1247,Jonathan Irwin,General Practitioner,Gauteng
+1248,Jeffery Day,General Practitioner,Western Cape
+1249,Matthew Wilson,Orthopedic,KZN
+1250,Denise Reynolds,Radiologist,Gauteng
+1251,Micheal Johnson,Orthopedic,KZN
+1252,Randall Williams,Orthopedic,Gauteng
+1253,Jerry Barker,Dentist,Western Cape
+1254,Ashley Porter,Radiologist,Gauteng
+1255,Anna Robbins,General Practitioner,Gauteng
+1256,Jennifer Hughes,Dentist,Gauteng
+1257,Mike Jones,General Practitioner,Western Cape
+1258,John Yang,Radiologist,KZN
+1259,Wendy Anderson,Radiologist,KZN
+1260,Sean Smith,General Practitioner,KZN
+1261,Curtis Brown,Radiologist,Western Cape
+1262,Dennis Hull,Dentist,Gauteng
+1263,Kathy Velazquez,Dentist,Western Cape
+1264,William Pacheco,Orthopedic,Western Cape
+1265,Melissa Pierce,Orthopedic,Western Cape
+1266,Alex Smith,Dentist,Western Cape
+1267,Dylan Reynolds,General Practitioner,Western Cape
+1268,Jeremiah Carey,Radiologist,Western Cape
+1269,William Rich,Radiologist,KZN
+1270,Victor Garcia,Orthopedic,Gauteng
+1271,Stephanie Dickerson,Radiologist,Western Cape
+1272,Stacey Hogan,Radiologist,Gauteng
+1273,Amy Nelson,Orthopedic,Gauteng
+1274,Kimberly Smith,Dentist,KZN
+1275,Ryan Chase,Orthopedic,Western Cape
+1276,Amy Garrett,Orthopedic,KZN
+1277,Christopher Bailey,General Practitioner,KZN
+1278,Jessica Lewis,Orthopedic,Gauteng
+1279,Susan Mcbride,Dentist,Western Cape
+1280,Deborah Woods,Radiologist,KZN
+1281,Brenda Stephens,Radiologist,Gauteng
+1282,Matthew Pearson,Orthopedic,KZN
+1283,Cheyenne Bray,Orthopedic,KZN
+1284,Jeffrey Turner,Radiologist,KZN
+1285,Luke Schmidt,General Practitioner,Western Cape
+1286,Heather Reynolds,Dentist,KZN
+1287,Gerald Osborne,Dentist,Gauteng
+1288,Elizabeth Deleon,General Practitioner,KZN
+1289,Kathleen Jones,Orthopedic,Gauteng
+1290,Maurice Beck,Radiologist,Western Cape
+1291,Ryan Hamilton,Dentist,Western Cape
+1292,Lisa Bright,Orthopedic,Gauteng
+1293,Thomas Shaw,Dentist,Gauteng
+1294,Ms. Danielle Molina MD,Dentist,KZN
+1295,Michele Rowland,Orthopedic,Gauteng
+1296,Douglas Franklin,Orthopedic,Gauteng
+1297,Breanna Jones,Dentist,Western Cape
+1298,Cory Potter,Dentist,KZN
+1299,Daniel Owens,General Practitioner,Western Cape
+1300,Bradley Carey MD,Dentist,Western Cape
+1301,Laura Adams,Radiologist,Gauteng
+1302,Jesus Garcia,Dentist,Western Cape
+1303,Terry Hudson,Dentist,Western Cape
+1304,Richard West,General Practitioner,Gauteng
+1305,Justin Garza,Dentist,KZN
+1306,Andrea Chaney,Orthopedic,Gauteng
+1307,Mrs. Tasha Hood MD,Radiologist,Western Cape
+1308,Julie Hamilton,Dentist,KZN
+1309,Jeremy Turner,Orthopedic,Western Cape
+1310,Laura Wilson,Orthopedic,KZN
+1311,Scott Stephens,Orthopedic,KZN
+1312,Daniel Miller,Radiologist,KZN
+1313,Mason Carpenter,Dentist,KZN
+1314,Lori Robertson,General Practitioner,Gauteng
+1315,Brett Jackson,Dentist,Gauteng
+1316,Natasha Green,Orthopedic,Gauteng
+1317,Erika Caldwell,Dentist,Western Cape
+1318,Michael Smith,Dentist,Gauteng
+1319,John Mills,Orthopedic,Gauteng
+1320,Kristina Chapman,Dentist,Gauteng
+1321,Charles Harris,Dentist,KZN
+1322,Kelly Roberts,Dentist,KZN
+1323,Travis Bartlett,Dentist,Western Cape
+1324,Michelle Ruiz,General Practitioner,Gauteng
+1325,Chelsea Robinson,Dentist,Western Cape
+1326,Ivan Green,Dentist,KZN
+1327,Desiree Cunningham,Radiologist,KZN
+1328,James Lewis,General Practitioner,KZN
+1329,Anthony Mcclain,Orthopedic,KZN
+1330,Michael Wright,General Practitioner,KZN
+1331,Traci Roberts,Orthopedic,Gauteng
+1332,Rachel Powell,Orthopedic,Western Cape
+1333,Brian Morris,Dentist,Western Cape
+1334,Robert Gonzalez,General Practitioner,Western Cape
+1335,Jordan Valdez,Dentist,KZN
+1336,Jeffrey Evans,General Practitioner,Gauteng
+1337,Alan Diaz PhD,Orthopedic,KZN
+1338,Craig Ward,Orthopedic,Gauteng
+1339,Matthew Raymond,Orthopedic,Gauteng
+1340,Victor Ramirez,Orthopedic,Western Cape
+1341,Lauren Castillo,Dentist,Western Cape
+1342,Maxwell Gomez,General Practitioner,KZN
+1343,Julie Mccarthy,Radiologist,Gauteng
+1344,Seth Holloway,Dentist,KZN
+1345,Claudia Cruz,General Practitioner,KZN
+1346,Debra Nelson,Orthopedic,KZN
+1347,Danielle Morgan,General Practitioner,Gauteng
+1348,Vanessa Tucker,General Practitioner,KZN
+1349,Eric Smith,Orthopedic,Western Cape
+1350,Corey Gonzalez,Radiologist,Gauteng
+1351,Kyle Campbell,Radiologist,KZN
+1352,Roger Jones,Orthopedic,Gauteng
+1353,Dr. Stephanie Wang MD,Dentist,Gauteng
+1354,Brian Cook,General Practitioner,KZN
+1355,Scott Elliott DDS,General Practitioner,Gauteng
+1356,Richard Williams,Orthopedic,Gauteng
+1357,Timothy Wolfe,Orthopedic,KZN
+1358,Stacy Smith,Dentist,KZN
+1359,Ricardo Alvarez,Orthopedic,Gauteng
+1360,Melanie Carson,Radiologist,Gauteng
+1361,Rachel Duran,Orthopedic,Gauteng
+1362,Lisa Salinas,Dentist,KZN
+1363,David Martinez,General Practitioner,Western Cape
+1364,Tiffany Mcdonald,Radiologist,KZN
+1365,Reginald Robinson,Radiologist,KZN
+1366,Margaret Howard,Radiologist,Gauteng
+1367,Ashley Hill,Orthopedic,KZN
+1368,Jessica James,Dentist,KZN
+1369,Katherine Walton,Dentist,Western Cape
+1370,Allison Wong,General Practitioner,Western Cape
+1371,Barbara Reyes,Dentist,Western Cape
+1372,Joseph Davis Jr.,General Practitioner,Western Cape
+1373,Emily Hernandez,Dentist,KZN
+1374,William Garcia,Dentist,Gauteng
+1375,Lisa Hall,Dentist,Western Cape
+1376,Lori Richardson,Orthopedic,Gauteng
+1377,Lori Gomez,Orthopedic,Western Cape
+1378,Amanda Lopez,General Practitioner,Gauteng
+1379,Gregory Johnson,Orthopedic,KZN
+1380,Jennifer Newton,Orthopedic,Gauteng
+1381,William Mcintosh,Orthopedic,Gauteng
+1382,Danielle Shepard,Orthopedic,Western Cape
+1383,Julia Alexander,Dentist,KZN
+1384,Brenda Bean,Radiologist,KZN
+1385,Stephen Meyer,General Practitioner,Gauteng
+1386,Sarah Porter,General Practitioner,KZN
+1387,Michael Smith,General Practitioner,Western Cape
+1388,William Mcdonald,General Practitioner,Gauteng
+1389,Rita Hansen,Dentist,Western Cape
+1390,Joseph Donaldson,Radiologist,KZN
+1391,James Villarreal,Orthopedic,KZN
+1392,Misty Huff,Radiologist,Gauteng
+1393,Tyler Carpenter,Radiologist,KZN
+1394,Keith Harris,General Practitioner,Gauteng
+1395,Adrian Rangel,Dentist,Gauteng
+1396,Bradley Marks,Dentist,KZN
+1397,Pamela Schmidt,Orthopedic,Gauteng
+1398,Jeffery Hernandez,Radiologist,KZN
+1399,Matthew Montoya,General Practitioner,KZN
+1400,Robin Rogers,Radiologist,Western Cape
+1401,Joseph Stanley,Dentist,KZN
+1402,Bryce Sharp,Radiologist,Gauteng
+1403,Michael Barker,General Practitioner,Western Cape
+1404,Ashley Henry,Radiologist,Gauteng
+1405,Tammy Nguyen,Dentist,Gauteng
+1406,Ian Conley,Dentist,Western Cape
+1407,Kenneth Whitehead,General Practitioner,KZN
+1408,Valerie Wong,Dentist,KZN
+1409,Rodney Weber,Radiologist,Western Cape
+1410,Cindy Mathis,Orthopedic,KZN
+1411,Bradley Blake,Dentist,KZN
+1412,Steven Moore,Orthopedic,Gauteng
+1413,Brandon Baker,General Practitioner,Gauteng
+1414,Stephanie Alvarez,General Practitioner,Western Cape
+1415,Donna Morales,Radiologist,KZN
+1416,Barbara Hansen,Dentist,KZN
+1417,Ebony Martinez,Orthopedic,Western Cape
+1418,Jason Giles,General Practitioner,KZN
+1419,Darryl Odom,Orthopedic,Western Cape
+1420,Nicholas Alexander,General Practitioner,Western Cape
+1421,Michelle Ray,General Practitioner,KZN
+1422,Travis Williams,Orthopedic,Gauteng
+1423,Tamara Smith,General Practitioner,Gauteng
+1424,Alejandro Green,Radiologist,KZN
+1425,Krista Dixon,General Practitioner,Western Cape
+1426,Michael Turner,Dentist,KZN
+1427,Derek Douglas,Dentist,Western Cape
+1428,Bryan Bradley,General Practitioner,Western Cape
+1429,Terri Jones,General Practitioner,KZN
+1430,Christopher Rodriguez,Radiologist,Western Cape
+1431,Samuel Navarro,Radiologist,KZN
+1432,Barbara Garcia MD,Dentist,Gauteng
+1433,Tyrone Miller,Dentist,Gauteng
+1434,Noah Hall,General Practitioner,Gauteng
+1435,Kelsey Ramirez,Radiologist,KZN
+1436,Vanessa Ponce,Radiologist,Gauteng
+1437,Kristi Saunders,Dentist,KZN
+1438,Kyle Savage,General Practitioner,KZN
+1439,Kristen Keller,Orthopedic,KZN
+1440,Dan Owens,Radiologist,Western Cape
+1441,Carolyn Cook,Orthopedic,Gauteng
+1442,Bonnie Diaz,General Practitioner,KZN
+1443,Nathan Sanchez,Orthopedic,Western Cape
+1444,Matthew Faulkner,Dentist,Western Cape
+1445,Tammy Foster,Dentist,KZN
+1446,Gabriel Ochoa,Orthopedic,Western Cape
+1447,Nicholas Moore,Orthopedic,KZN
+1448,Janet Yu,Orthopedic,KZN
+1449,Karen Boyer,Dentist,KZN
+1450,Jason Roth,Orthopedic,Gauteng
+1451,Tiffany Stewart,Dentist,KZN
+1452,Hannah Wilkinson,Dentist,Western Cape
+1453,Christopher Harris,Radiologist,Gauteng
+1454,Joshua Burgess,Radiologist,KZN
+1455,Kevin Mckinney,Orthopedic,Western Cape
+1456,Shelly Jones,General Practitioner,Gauteng
+1457,Michael Thomas,Radiologist,KZN
+1458,Brent Williamson,Dentist,KZN
+1459,Karen Hernandez,Orthopedic,Western Cape
+1460,Caitlin Evans,Orthopedic,Western Cape
+1461,Jane Hale,Radiologist,KZN
+1462,Bradley Lucas,Dentist,Gauteng
+1463,Brian Boyd,Dentist,KZN
+1464,Faith Ramos,General Practitioner,Gauteng
+1465,Mary Kim,Radiologist,Western Cape
+1466,Maria Austin,Dentist,Gauteng
+1467,Kelly Ruiz,Orthopedic,Gauteng
+1468,David White,General Practitioner,Gauteng
+1469,Deanna Johnson,Radiologist,Western Cape
+1470,Kelly Campbell,General Practitioner,Gauteng
+1471,Stephen Williams,Radiologist,Western Cape
+1472,Aaron Jones,Orthopedic,Gauteng
+1473,Christy Dominguez,General Practitioner,Gauteng
+1474,Taylor Ballard,Radiologist,KZN
+1475,Steve Villegas,Dentist,KZN
+1476,Heidi Alvarez,Dentist,KZN
+1477,Alexander Byrd,General Practitioner,KZN
+1478,Adrienne Mills,Radiologist,Gauteng
+1479,Chris Jackson,General Practitioner,KZN
+1480,Christina Hart,Radiologist,Gauteng
+1481,Amy Walsh,Radiologist,KZN
+1482,John Miller,General Practitioner,KZN
+1483,Kelly Nixon,Radiologist,Western Cape
+1484,Charles Scott,Radiologist,Gauteng
+1485,Lisa Saunders,Orthopedic,Western Cape
+1486,Mr. Omar Flynn,Radiologist,Western Cape
+1487,Elizabeth Howell,General Practitioner,KZN
+1488,Christopher Decker,Radiologist,Gauteng
+1489,Trevor Wells,Radiologist,KZN
+1490,Ashley Cook,General Practitioner,Gauteng
+1491,Jesse Bailey,Dentist,Gauteng
+1492,Dennis Brown,Dentist,Western Cape
+1493,William Wood,Orthopedic,Gauteng
+1494,Brenda Munoz,Dentist,Gauteng
+1495,Diane Hodge,Dentist,Western Cape
+1496,Steven Johnson,Dentist,Gauteng
+1497,Donald Mendez,Dentist,KZN
+1498,David Johnson,Orthopedic,Gauteng
+1499,Amanda Miller,General Practitioner,Western Cape
+1500,Jordan Monroe,Dentist,KZN
+1501,Sandra Jackson,General Practitioner,KZN
+1502,Frank Green,Radiologist,Gauteng
+1503,Melinda Foster,General Practitioner,Gauteng
+1504,William Clark,General Practitioner,Western Cape
+1505,Corey Leonard,Orthopedic,Gauteng
+1506,Janice Barry,Radiologist,Gauteng
+1507,Steven Brown,Dentist,KZN
+1508,Michael Hansen,Dentist,KZN
+1509,Ashley Wood,Dentist,Gauteng
+1510,Hannah Camacho,Orthopedic,Western Cape
+1511,Rebecca Lee,Radiologist,KZN
+1512,Jose Morris,Dentist,Western Cape
+1513,Mrs. Sharon Jones MD,General Practitioner,Western Cape
+1514,Ryan King,Radiologist,Western Cape
+1515,Justin Rodriguez,Dentist,KZN
+1516,Melissa Wolfe,Orthopedic,Gauteng
+1517,Jeremy Bowers,Dentist,Western Cape
+1518,Benjamin Hoffman,Radiologist,Western Cape
+1519,Michael Rivers,Dentist,KZN
+1520,Diane Lopez MD,Dentist,Western Cape
+1521,Sherry Franklin,General Practitioner,Gauteng
+1522,Nancy English,Dentist,Gauteng
+1523,Nicole Barton,Radiologist,Western Cape
+1524,Mercedes Mendoza,Orthopedic,Western Cape
+1525,Rose Santiago,Dentist,KZN
+1526,Vernon Scott,Orthopedic,Western Cape
+1527,Joshua Ray,General Practitioner,Western Cape
+1528,Edward Shaw,Orthopedic,Gauteng
+1529,Heather Mcknight,General Practitioner,Western Cape
+1530,Lisa Austin,Orthopedic,Gauteng
+1531,Heather Braun,Dentist,KZN
+1532,Corey Berry,Orthopedic,Western Cape
+1533,Donald Torres,Orthopedic,Western Cape
+1534,Charles Sanders,Radiologist,KZN
+1535,Kurt Peterson,Radiologist,Western Cape
+1536,Phillip Martinez,Radiologist,Gauteng
+1537,Jay Ball,Radiologist,Western Cape
+1538,Paul Moreno,Orthopedic,Western Cape
+1539,John Jackson,General Practitioner,Gauteng
+1540,Matthew Munoz,Orthopedic,KZN
+1541,Jasmin Ortiz MD,Orthopedic,KZN
+1542,Franklin Ray,Radiologist,Gauteng
+1543,Gary Mcfarland,Orthopedic,KZN
+1544,Theodore Gibson,Radiologist,KZN
+1545,Cheryl Porter,Dentist,Western Cape
+1546,Deanna Delgado,Orthopedic,Western Cape
+1547,Jean Alvarez,Orthopedic,KZN
+1548,Robin Zimmerman,Dentist,Western Cape
+1549,Samantha Lowe,Dentist,Gauteng
+1550,Terri Bernard,Orthopedic,KZN
+1551,Kevin Franco,General Practitioner,KZN
+1552,Kevin Nicholson,Orthopedic,Gauteng
+1553,Kerry Marshall,Orthopedic,Gauteng
+1554,Sarah Barton,Radiologist,Gauteng
+1555,Danielle Mathis,General Practitioner,Gauteng
+1556,Paul Vargas,Dentist,Western Cape
+1557,Christopher Sharp,General Practitioner,KZN
+1558,Kyle Parks,General Practitioner,Gauteng
+1559,Cody Watson,Dentist,KZN
+1560,Brandon Mitchell,General Practitioner,Gauteng
+1561,Mary Martinez,Dentist,KZN
+1562,Steven Roberts,Orthopedic,Western Cape
+1563,Michael Williams PhD,General Practitioner,Gauteng
+1564,David Anderson,Orthopedic,Western Cape
+1565,David Williams,Dentist,KZN
+1566,Nathan Parker,General Practitioner,Gauteng
+1567,Taylor Wong,Orthopedic,Gauteng
+1568,Dawn Keith,Radiologist,Gauteng
+1569,Nicole Arnold,Dentist,KZN
+1570,Robert Wright,Dentist,Gauteng
+1571,Christina Woods,Radiologist,Western Cape
+1572,Jennifer Alvarez,General Practitioner,Gauteng
+1573,Elizabeth Cuevas,Orthopedic,Western Cape
+1574,Hayden Rodriguez,Orthopedic,Western Cape
+1575,Jeffrey Sanchez,Orthopedic,Western Cape
+1576,Cameron Anderson,Orthopedic,KZN
+1577,Adriana Brown,Radiologist,Western Cape
+1578,Craig Thomas,Dentist,Gauteng
+1579,Cody Baker,General Practitioner,KZN
+1580,Sara Wong,Dentist,KZN
+1581,Christopher Bennett,General Practitioner,Gauteng
+1582,Randall Spencer,Dentist,KZN
+1583,Jennifer Green,Radiologist,Western Cape
+1584,Emily Walker,Orthopedic,Western Cape
+1585,Karen Smith,Radiologist,Gauteng
+1586,Eric Powers,Dentist,Western Cape
+1587,Karen Pearson,General Practitioner,Gauteng
+1588,Emily Black,Radiologist,Gauteng
+1589,Kimberly Lee,Radiologist,Western Cape
+1590,Alex Caldwell,Radiologist,Western Cape
+1591,Deanna Gallagher,General Practitioner,KZN
+1592,Misty Washington,Orthopedic,Western Cape
+1593,Alicia Mccarthy,Orthopedic,Western Cape
+1594,Emma Davis,Dentist,Western Cape
+1595,Joseph Davis,General Practitioner,Western Cape
+1596,Stacy Lopez,Radiologist,Gauteng
+1597,Brooke Davis DVM,Orthopedic,KZN
+1598,Krystal Leon,Orthopedic,KZN
+1599,Amber Lee,Dentist,Western Cape
+1600,Edward Gillespie,Dentist,Gauteng
+1601,Kristen Spence,Orthopedic,Gauteng
+1602,Paul Taylor,Orthopedic,Gauteng
+1603,Kristen Nelson,Radiologist,Western Cape
+1604,Anthony Rose,Radiologist,Western Cape
+1605,Dawn Dyer,General Practitioner,KZN
+1606,Nathan Thompson,Dentist,KZN
+1607,Jose Potts DDS,Dentist,KZN
+1608,Debbie Allen,General Practitioner,Gauteng
+1609,James Duran,Dentist,KZN
+1610,Autumn Ramirez,Orthopedic,KZN
+1611,Jerry Rivera,General Practitioner,Western Cape
+1612,Christopher Jones,Dentist,Western Cape
+1613,Patricia Sharp,Radiologist,KZN
+1614,Donald Gomez,General Practitioner,Gauteng
+1615,Timothy Hartman,Dentist,Gauteng
+1616,Billy Anderson,General Practitioner,Gauteng
+1617,Emily Oneal,Radiologist,KZN
+1618,Anna Chavez,Orthopedic,Western Cape
+1619,Dwayne Allison,Radiologist,Western Cape
+1620,Thomas Braun,General Practitioner,Gauteng
+1621,Stacy Craig,General Practitioner,Western Cape
+1622,Derek Reeves,Orthopedic,KZN
+1623,Cindy Thompson,Radiologist,Gauteng
+1624,Chelsey Riley,Radiologist,Western Cape
+1625,Rose Schmidt MD,Radiologist,Western Cape
+1626,Dana Garcia,Radiologist,KZN
+1627,Patricia Villegas,General Practitioner,KZN
+1628,Victor Vargas,General Practitioner,Gauteng
+1629,Kelsey Brown,General Practitioner,KZN
+1630,Mark Williams,Orthopedic,Gauteng
+1631,Diane West MD,Radiologist,Gauteng
+1632,Edward Welch,Radiologist,Gauteng
+1633,Jason Maynard,Dentist,Western Cape
+1634,Angel Johnson,Dentist,KZN
+1635,Chris Cain,Dentist,Gauteng
+1636,Clarence Garcia,Radiologist,Western Cape
+1637,Elizabeth Dixon,Dentist,KZN
+1638,Amy Sullivan,General Practitioner,Gauteng
+1639,Michael Taylor,Dentist,KZN
+1640,Dominique Martin,Orthopedic,Western Cape
+1641,Ashley Blake,General Practitioner,Gauteng
+1642,Michael Petty,Radiologist,Gauteng
+1643,Evelyn Bradshaw,Orthopedic,Western Cape
+1644,Deborah Washington,General Practitioner,KZN
+1645,James Moody,Radiologist,Gauteng
+1646,Nicole Vega,General Practitioner,KZN
+1647,Jason Carter,Orthopedic,KZN
+1648,Mrs. Denise King,Radiologist,Gauteng
+1649,Catherine Graves,Orthopedic,Western Cape
+1650,Marilyn Morgan,Dentist,Gauteng
+1651,Manuel Curtis,Radiologist,Western Cape
+1652,Jackie Graham,Orthopedic,KZN
+1653,Allison Perry,General Practitioner,KZN
+1654,Linda Long,Radiologist,Western Cape
+1655,Jessica Hamilton,Dentist,KZN
+1656,Nicholas Santos,Radiologist,Western Cape
+1657,Lori Lyons,Dentist,KZN
+1658,Julie Leon,General Practitioner,Gauteng
+1659,William Mccarthy,Radiologist,Gauteng
+1660,Joseph Miller,Dentist,Gauteng
+1661,Justin Davis,General Practitioner,Gauteng
+1662,Erik Hayden,General Practitioner,Gauteng
+1663,Vicki Jones,Radiologist,Western Cape
+1664,Michael Branch,Orthopedic,KZN
+1665,Christopher Allen,General Practitioner,KZN
+1666,Lauren White,Orthopedic,Western Cape
+1667,Jamie Hart,General Practitioner,KZN
+1668,Nicole Dillon,Radiologist,KZN
+1669,Harold Alvarado,Orthopedic,Gauteng
+1670,Joseph Cummings,Radiologist,KZN
+1671,Jennifer Wilson,Radiologist,Western Cape
+1672,Michael Casey,Radiologist,KZN
+1673,Sydney Glenn,Dentist,Gauteng
+1674,Mitchell Wells,Orthopedic,Gauteng
+1675,Maurice Huffman,General Practitioner,Gauteng
+1676,Joseph Fuller,Orthopedic,KZN
+1677,Jessica Perez,Radiologist,Gauteng
+1678,Tracy Davis,Orthopedic,Western Cape
+1679,Kevin Dean,Orthopedic,Gauteng
+1680,Francisco Gibson,Radiologist,KZN
+1681,Barbara Thompson,General Practitioner,Gauteng
+1682,Charles Adkins,Orthopedic,KZN
+1683,Rhonda Bishop,Orthopedic,KZN
+1684,Joan Bell,Orthopedic,Gauteng
+1685,Zachary Ray,Dentist,Gauteng
+1686,Brian Jones,Radiologist,Western Cape
+1687,Robert Rubio,Radiologist,KZN
+1688,Ana Harris,Orthopedic,Western Cape
+1689,Kelly Walker,Radiologist,KZN
+1690,Carolyn Davis,General Practitioner,Western Cape
+1691,Paul Rojas,Radiologist,Western Cape
+1692,Tracy Johns,General Practitioner,Western Cape
+1693,Andrea Hernandez,General Practitioner,KZN
+1694,Kevin Smith,Dentist,KZN
+1695,Jeffrey Reid,Radiologist,KZN
+1696,Joel Hogan,General Practitioner,KZN
+1697,Joseph Hale,Dentist,Western Cape
+1698,Amanda Armstrong,General Practitioner,Western Cape
+1699,Monica Peters,General Practitioner,Western Cape
+1700,Samantha Klein,Orthopedic,Western Cape
+1701,Phillip Brown,Dentist,KZN
+1702,Steven Mitchell,Radiologist,Gauteng
+1703,Paula Hodge,Dentist,Gauteng
+1704,Kevin Wang,Radiologist,Western Cape
+1705,Mr. Brian Shaw,General Practitioner,Gauteng
+1706,Ryan Anderson,General Practitioner,Gauteng
+1707,Daniel Park,General Practitioner,Gauteng
+1708,Richard Mercer,Orthopedic,Western Cape
+1709,Matthew Erickson,Dentist,Gauteng
+1710,Timothy Frank,General Practitioner,Western Cape
+1711,Melody Robinson,Dentist,KZN
+1712,Xavier Guerrero,Orthopedic,Gauteng
+1713,Ryan Johnson,Dentist,Western Cape
+1714,Taylor Wright,Radiologist,KZN
+1715,Lisa Pollard,General Practitioner,Gauteng
+1716,Carolyn Bautista,Radiologist,Gauteng
+1717,Janet Schneider,Orthopedic,KZN
+1718,Edgar Harrison,Orthopedic,Gauteng
+1719,Seth Valdez,General Practitioner,KZN
+1720,Chloe Long,Dentist,Western Cape
+1721,Jesse Knight,Radiologist,Western Cape
+1722,Michael King,General Practitioner,KZN
+1723,Andrea Bender,Dentist,KZN
+1724,Chelsea Rios,Dentist,Gauteng
+1725,Brenda Steele,Radiologist,Gauteng
+1726,Erin Sutton,Orthopedic,Gauteng
+1727,Jason Hobbs,Orthopedic,KZN
+1728,Steven Hull,Orthopedic,Western Cape
+1729,Sharon Crosby,General Practitioner,Western Cape
+1730,Christopher Walton,Orthopedic,Western Cape
+1731,Anthony Lee,Radiologist,KZN
+1732,Kevin Castillo,General Practitioner,Western Cape
+1733,Tamara Cortez,General Practitioner,KZN
+1734,Matthew Lee,Dentist,Gauteng
+1735,Jennifer Hancock,General Practitioner,KZN
+1736,Stephanie Becker,Dentist,Gauteng
+1737,Amy Gomez,Orthopedic,Gauteng
+1738,Christina Strong,Radiologist,KZN
+1739,Jessica Hansen,Dentist,Western Cape
+1740,Dylan Holmes,Dentist,KZN
+1741,Stephanie Ramirez,General Practitioner,Gauteng
+1742,Brian Kelly,Radiologist,KZN
+1743,Joy Roach,Radiologist,Gauteng
+1744,Chad Peterson,General Practitioner,Gauteng
+1745,Karen Sullivan,Orthopedic,KZN
+1746,Jennifer Chen MD,Radiologist,Western Cape
+1747,Paul Avila,General Practitioner,Gauteng
+1748,Rebecca Roberts,Radiologist,Gauteng
+1749,Michael Hurst,Radiologist,Western Cape
+1750,Robert Moran,General Practitioner,Western Cape
+1751,Jennifer Hurst,Orthopedic,Western Cape
+1752,Rebecca Rice,General Practitioner,Gauteng
+1753,Matthew Harris,Radiologist,KZN
+1754,Devin Parker,General Practitioner,Western Cape
+1755,Mercedes Griffith,Radiologist,Western Cape
+1756,Christina Anderson,Orthopedic,Western Cape
+1757,Taylor Thompson,Orthopedic,Western Cape
+1758,Traci Bates,General Practitioner,KZN
+1759,Roberto Smith,General Practitioner,KZN
+1760,Marc Proctor,Orthopedic,Western Cape
+1761,Robin Barrett,Dentist,Gauteng
+1762,Kyle Floyd,Dentist,KZN
+1763,Adriana Mills,Dentist,Western Cape
+1764,John Cohen,Radiologist,KZN
+1765,Scott Williams,General Practitioner,KZN
+1766,Ashley Savage,Radiologist,KZN
+1767,Thomas Wallace,Dentist,Western Cape
+1768,Martha Brown,Radiologist,Western Cape
+1769,Scott Patel,General Practitioner,Western Cape
+1770,Lindsey Rogers,General Practitioner,Western Cape
+1771,Jesus Castillo,Dentist,Gauteng
+1772,Kurt Scott,Dentist,Gauteng
+1773,Jessica Stone,Dentist,Gauteng
+1774,Teresa Lewis,General Practitioner,KZN
+1775,Matthew Sullivan,Dentist,Western Cape
+1776,Anna Hill,General Practitioner,Gauteng
+1777,Dr. Charles Carter,General Practitioner,KZN
+1778,Robert Foster,Orthopedic,KZN
+1779,Peter Daniels,Orthopedic,Western Cape
+1780,Brian Wood,Dentist,Gauteng
+1781,Christopher Johnson,Dentist,Western Cape
+1782,Carol Curtis,General Practitioner,KZN
+1783,Sean Young,General Practitioner,Western Cape
+1784,Christopher Kennedy,General Practitioner,KZN
+1785,David Coleman,Radiologist,Gauteng
+1786,Brian West,Orthopedic,Western Cape
+1787,Timothy Anderson,Radiologist,Gauteng
+1788,Carrie Scott,General Practitioner,KZN
+1789,Henry Chase,Orthopedic,KZN
+1790,Ryan Banks,Orthopedic,Gauteng
+1791,Carol Watson,General Practitioner,Gauteng
+1792,Danielle Wall,Dentist,Western Cape
+1793,Lori Franklin,Dentist,KZN
+1794,Michael Leonard,Dentist,Western Cape
+1795,Robin Moyer,Radiologist,Gauteng
+1796,Kyle Farrell,General Practitioner,Western Cape
+1797,Tyler Cohen,Radiologist,KZN
+1798,Stacey Salinas MD,Dentist,Gauteng
+1799,Jacob Case,Dentist,Gauteng
+1800,Cameron Schultz,Radiologist,Western Cape
+1801,Ronald Ingram,Orthopedic,KZN
+1802,Joseph Grant,Dentist,Gauteng
+1803,David Wagner,General Practitioner,Western Cape
+1804,Joshua James,Orthopedic,Western Cape
+1805,Michael Smith,Dentist,KZN
+1806,Sean Wheeler,Dentist,Gauteng
+1807,Kelsey Berry,Orthopedic,KZN
+1808,John Rios,General Practitioner,Gauteng
+1809,Kristina Irwin,Dentist,KZN
+1810,Jose Aguilar,General Practitioner,Gauteng
+1811,Cody Schroeder,General Practitioner,Western Cape
+1812,Jamie Harrell,General Practitioner,Western Cape
+1813,Paul Moore,General Practitioner,Gauteng
+1814,Elizabeth Solomon,General Practitioner,Western Cape
+1815,Jennifer Davis,General Practitioner,KZN
+1816,Sharon Stafford,Radiologist,Western Cape
+1817,Judy Mitchell,Radiologist,KZN
+1818,Angela Martin,Radiologist,Gauteng
+1819,Jennifer Ortega,General Practitioner,Gauteng
+1820,Ryan Howard,Dentist,Western Cape
+1821,James Kirk,Dentist,KZN
+1822,John Stanley,Radiologist,Gauteng
+1823,Mr. Shawn Smith,Dentist,Gauteng
+1824,James Rogers,Radiologist,KZN
+1825,Matthew Smith,Orthopedic,KZN
+1826,Anthony Adkins,General Practitioner,Western Cape
+1827,Alexis Mendoza,General Practitioner,Gauteng
+1828,Ronald Harding DDS,Orthopedic,Western Cape
+1829,Amanda Gordon,Orthopedic,Western Cape
+1830,Michael Scott,Dentist,Western Cape
+1831,Anna Ramirez,Dentist,Gauteng
+1832,Jesse White,Radiologist,KZN
+1833,Austin Mcdonald,Radiologist,Gauteng
+1834,Caitlyn Watson,Orthopedic,KZN
+1835,Alyssa Ewing,Dentist,Western Cape
+1836,Maria Harris,General Practitioner,KZN
+1837,Patrick Grimes,General Practitioner,Western Cape
+1838,Lori Hurst,General Practitioner,KZN
+1839,Jessica Adams,Dentist,Gauteng
+1840,Deborah Robinson,Orthopedic,Gauteng
+1841,Sarah Moore,Radiologist,KZN
+1842,Dennis Johnson,Radiologist,Western Cape
+1843,Austin Morgan,Orthopedic,Western Cape
+1844,Dr. Holly Hester,Orthopedic,Gauteng
+1845,William Sanchez,Radiologist,KZN
+1846,Patricia Rios,General Practitioner,Western Cape
+1847,Paige Morgan,General Practitioner,Western Cape
+1848,Charles Mcpherson,Dentist,Gauteng
+1849,Rita Thomas,Radiologist,Western Cape
+1850,Teresa Trevino,Dentist,Gauteng
+1851,Nicholas Gilbert,Orthopedic,Gauteng
+1852,James Jimenez,General Practitioner,Western Cape
+1853,Michelle Walsh,General Practitioner,Gauteng
+1854,Gary Johnson,Radiologist,KZN
+1855,Kari Smith,Radiologist,Gauteng
+1856,Kaitlyn Hawkins,Orthopedic,KZN
+1857,Brandon Walsh,Dentist,Gauteng
+1858,Jamie Gill,Radiologist,Gauteng
+1859,Juan Day,Orthopedic,KZN
+1860,Lindsay Henry,Orthopedic,Western Cape
+1861,Erik Novak,Dentist,Gauteng
+1862,Michael Long,Radiologist,Western Cape
+1863,Daniel Sweeney,General Practitioner,Western Cape
+1864,Brian Ortega,Radiologist,Gauteng
+1865,Tony Grant,Radiologist,Western Cape
+1866,Aimee Larsen,General Practitioner,KZN
+1867,Thomas Cruz,Radiologist,Western Cape
+1868,Shawn Martinez,General Practitioner,KZN
+1869,David Scott,Orthopedic,KZN
+1870,Patricia Campbell,General Practitioner,Gauteng
+1871,Jacob Miller,Radiologist,Western Cape
+1872,Brandon Ward,Radiologist,KZN
+1873,Jonathan Gonzalez,Radiologist,Gauteng
+1874,Alejandra Ruiz,Radiologist,Western Cape
+1875,Kayla Faulkner,Radiologist,Western Cape
+1876,Christian Peterson,General Practitioner,Gauteng
+1877,Jasmine Alvarez,Orthopedic,Western Cape
+1878,Carol Mendoza,General Practitioner,Western Cape
+1879,Carolyn James,Dentist,KZN
+1880,Leslie Rojas,Orthopedic,Western Cape
+1881,Phyllis Thompson,Dentist,KZN
+1882,Denise Taylor,General Practitioner,KZN
+1883,Travis Rios,Radiologist,Gauteng
+1884,Charles Martin,Radiologist,Gauteng
+1885,Kristin Jackson,General Practitioner,Gauteng
+1886,John Nelson,General Practitioner,KZN
+1887,Derek Charles,Orthopedic,Gauteng
+1888,Amy Duncan,Radiologist,Western Cape
+1889,Logan Williams,General Practitioner,KZN
+1890,Jose Hampton,Orthopedic,Gauteng
+1891,Michael Krueger,Radiologist,Gauteng
+1892,Brian Sherman,General Practitioner,KZN
+1893,Alison Brown,General Practitioner,Western Cape
+1894,Rebecca Brown,Dentist,KZN
+1895,Kevin Holmes,Dentist,Western Cape
+1896,Sharon Mccarthy,Radiologist,Western Cape
+1897,Rebecca Holmes,General Practitioner,Western Cape
+1898,Jon Mullins,Radiologist,KZN
+1899,Elizabeth Smith,General Practitioner,Gauteng
+1900,Charles Martin,Dentist,KZN
+1901,Justin Richard,Dentist,KZN
+1902,Catherine Wilson,General Practitioner,Gauteng
+1903,Brian Munoz,Orthopedic,Western Cape
+1904,Amanda Hall,Radiologist,Gauteng
+1905,Kenneth Cuevas,Orthopedic,Western Cape
+1906,Benjamin Taylor,Dentist,Western Cape
+1907,James Callahan,General Practitioner,Gauteng
+1908,Corey Weeks,Radiologist,KZN
+1909,Karen West,Radiologist,Gauteng
+1910,Leonard Avery,General Practitioner,KZN
+1911,Richard Meyer,Radiologist,KZN
+1912,Jessica Weiss,Orthopedic,KZN
+1913,Angela Roach,General Practitioner,Western Cape
+1914,Thomas Jones,Dentist,Western Cape
+1915,Kyle Brock,Radiologist,Gauteng
+1916,Sharon Gonzales,Radiologist,Western Cape
+1917,Carla Miller,Orthopedic,KZN
+1918,Sarah Simmons,Orthopedic,KZN
+1919,Sara Long,Orthopedic,KZN
+1920,Deanna Price,Radiologist,KZN
+1921,Jeffrey Blair,Orthopedic,Western Cape
+1922,Benjamin Fields,Dentist,Gauteng
+1923,Crystal Wilkins,Radiologist,KZN
+1924,Lisa Jackson,Radiologist,Gauteng
+1925,David Nichols,Dentist,Western Cape
+1926,Marissa Lynn,General Practitioner,KZN
+1927,Rachael Kramer,Radiologist,Gauteng
+1928,Aaron Cannon,Radiologist,Gauteng
+1929,Jorge Kramer,Radiologist,Gauteng
+1930,Jennifer Miller,Radiologist,Western Cape
+1931,Holly Fox,Orthopedic,Gauteng
+1932,Jean Mayo,Radiologist,KZN
+1933,Bonnie Miller,Radiologist,KZN
+1934,Leslie Allen,General Practitioner,Gauteng
+1935,Victoria Oneal,Dentist,Gauteng
+1936,Steven Adams,Radiologist,Gauteng
+1937,Mallory Ruiz,Radiologist,Western Cape
+1938,Ms. Vanessa Stevens,Orthopedic,Western Cape
+1939,Laurie Webb,Radiologist,Gauteng
+1940,Jason Fuller,Dentist,KZN
+1941,Christina Carter,Radiologist,KZN
+1942,Monique Pugh,Dentist,KZN
+1943,Kerry Murray,Dentist,Gauteng
+1944,Deborah Mills,Orthopedic,Western Cape
+1945,Raymond Carrillo,Radiologist,KZN
+1946,John Blanchard MD,Orthopedic,Gauteng
+1947,Kathryn Wang,Dentist,Gauteng
+1948,Thomas Contreras,Orthopedic,Gauteng
+1949,John Oconnell,Radiologist,KZN
+1950,Mark Thompson,Dentist,Western Cape
+1951,Samantha Moses,General Practitioner,Gauteng
+1952,Katrina Hayes,Radiologist,Western Cape
+1953,Christopher Le,Dentist,KZN
+1954,Mark Jones,General Practitioner,Western Cape
+1955,Nicole Lowe,Radiologist,KZN
+1956,Darrell Guzman,Radiologist,Gauteng
+1957,Kelsey Bishop,Radiologist,Western Cape
+1958,Anna Morris,Radiologist,KZN
+1959,Alicia Richards,Dentist,KZN
+1960,Jason Anderson,Orthopedic,Western Cape
+1961,Alyssa Campbell,Dentist,Western Cape
+1962,Christopher Gutierrez,Radiologist,KZN
+1963,Matthew Martin,General Practitioner,KZN
+1964,Spencer Reed,Dentist,KZN
+1965,Philip Hogan,General Practitioner,Western Cape
+1966,Rachel Greene,Radiologist,Gauteng
+1967,Jon Cline,Radiologist,Western Cape
+1968,Shirley Jackson,Radiologist,KZN
+1969,Robert Sheppard Jr.,General Practitioner,Western Cape
+1970,Gerald Williams,Radiologist,KZN
+1971,Rebecca Perez,Orthopedic,Gauteng
+1972,Kimberly Juarez,Dentist,KZN
+1973,David Flores,Dentist,KZN
+1974,Virginia Dunn DVM,Radiologist,KZN
+1975,Mary Wood,Radiologist,Western Cape
+1976,David Smith,Dentist,Gauteng
+1977,Terrance Harper,Dentist,Gauteng
+1978,Michael Larson,Radiologist,Western Cape
+1979,Kylie Riley,Orthopedic,KZN
+1980,Ellen Taylor,Orthopedic,Gauteng
+1981,Robert Johnson,Radiologist,KZN
+1982,Steven James Jr.,Dentist,KZN
+1983,Theresa Nelson,Dentist,Western Cape
+1984,Vincent Webster,Dentist,Gauteng
+1985,William Oliver,Radiologist,Western Cape
+1986,Melissa Rodriguez,Radiologist,Western Cape
+1987,Andrea Figueroa,Orthopedic,Gauteng
+1988,Nichole Young,General Practitioner,Gauteng
+1989,Crystal Chambers,Dentist,Western Cape
+1990,Joseph Miranda,Dentist,KZN
+1991,Jared Jackson,Dentist,Gauteng
+1992,Yvonne Mills,General Practitioner,Western Cape
+1993,Christopher Frazier,Radiologist,Western Cape
+1994,Melissa Murphy,Dentist,Gauteng
+1995,Kelsey Gilbert,Radiologist,Western Cape
+1996,Briana Phillips,Dentist,KZN
+1997,George Reyes,Radiologist,Western Cape
+1998,Samantha Harvey,Dentist,Gauteng
+1999,Ashley Greene,Orthopedic,Western Cape
+2000,Michael Chapman,Dentist,KZN

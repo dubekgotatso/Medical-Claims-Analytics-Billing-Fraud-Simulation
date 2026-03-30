@@ -1,0 +1,301 @@
+hospital_id,hospital_name,province
+1,Contreras and Sons Hospital,Western Cape
+2,Marsh PLC Hospital,KZN
+3,Reese PLC Hospital,KZN
+4,"Johnston, Smith and Carr Hospital",KZN
+5,Jones-Young Hospital,Gauteng
+6,Parker Inc Hospital,Gauteng
+7,Price-Lane Hospital,Gauteng
+8,Green PLC Hospital,KZN
+9,Hale-Hernandez Hospital,Gauteng
+10,Brown-Cobb Hospital,Western Cape
+11,Jones and Sons Hospital,KZN
+12,Hunt Ltd Hospital,KZN
+13,"Green, Duran and Long Hospital",Western Cape
+14,Cowan PLC Hospital,Western Cape
+15,Owens-Nelson Hospital,Western Cape
+16,Dominguez-Williams Hospital,Gauteng
+17,"Yoder, Ruiz and Collins Hospital",Gauteng
+18,"Clayton, Robinson and Peterson Hospital",KZN
+19,King-Russell Hospital,Western Cape
+20,Olson and Sons Hospital,Gauteng
+21,Willis Ltd Hospital,Gauteng
+22,Hart Ltd Hospital,Western Cape
+23,Crane-Pena Hospital,Gauteng
+24,Burns-Johnson Hospital,Western Cape
+25,Leonard Ltd Hospital,Western Cape
+26,Coleman and Sons Hospital,KZN
+27,Caldwell Ltd Hospital,Western Cape
+28,Gonzalez-Obrien Hospital,KZN
+29,Brady-West Hospital,KZN
+30,Lambert Ltd Hospital,Gauteng
+31,"Frank, Stanley and Chan Hospital",KZN
+32,"Noble, Cortez and Williams Hospital",Western Cape
+33,"Banks, Johnson and Hughes Hospital",Western Cape
+34,"Crawford, Brown and Hopkins Hospital",Gauteng
+35,"Dickson, Sampson and Gomez Hospital",Gauteng
+36,Ibarra-Davila Hospital,Gauteng
+37,"Bennett, Young and Brown Hospital",KZN
+38,"Lee, Cuevas and Miller Hospital",KZN
+39,Schultz-Webster Hospital,Gauteng
+40,Mcclain and Sons Hospital,Western Cape
+41,Sanchez-Valencia Hospital,Gauteng
+42,Duncan-Newman Hospital,KZN
+43,Campbell and Sons Hospital,Western Cape
+44,"Peters, Frazier and Soto Hospital",KZN
+45,"Alvarado, Torres and White Hospital",Western Cape
+46,Griffith-Wilson Hospital,Western Cape
+47,"Hurley, Parker and Rich Hospital",Western Cape
+48,"Nelson, Sanchez and Kemp Hospital",Gauteng
+49,Washington-Larson Hospital,KZN
+50,Vance and Sons Hospital,Western Cape
+51,Ball-Smith Hospital,Western Cape
+52,Gibson-Dyer Hospital,Western Cape
+53,"White, Nichols and Carlson Hospital",Western Cape
+54,Miller-Atkins Hospital,Gauteng
+55,Lawson-Turner Hospital,Western Cape
+56,"Dickerson, Brewer and Singh Hospital",Western Cape
+57,Higgins-Hill Hospital,Gauteng
+58,Collins Ltd Hospital,Western Cape
+59,Whitehead-White Hospital,Western Cape
+60,Mckinney-Caldwell Hospital,Gauteng
+61,Frederick-Harvey Hospital,KZN
+62,Palmer-Morris Hospital,Gauteng
+63,Black PLC Hospital,Gauteng
+64,Mosley-Hopkins Hospital,Gauteng
+65,Raymond-Herrera Hospital,Western Cape
+66,"Kent, Ward and Carpenter Hospital",KZN
+67,"Jackson, Castro and Parker Hospital",KZN
+68,Park Inc Hospital,Western Cape
+69,Page-Rodriguez Hospital,Western Cape
+70,"Mata, Smith and Bailey Hospital",KZN
+71,Stone-Powers Hospital,Western Cape
+72,Powell PLC Hospital,Western Cape
+73,Pena-Reed Hospital,Western Cape
+74,Vasquez-Johnson Hospital,Western Cape
+75,Irwin and Sons Hospital,KZN
+76,Perry-Larsen Hospital,Gauteng
+77,Hansen-Pratt Hospital,Western Cape
+78,Davis and Sons Hospital,KZN
+79,"Taylor, Kelly and Payne Hospital",KZN
+80,Harris-White Hospital,Gauteng
+81,Lawson Inc Hospital,Western Cape
+82,Ball and Sons Hospital,Western Cape
+83,Rose-Waters Hospital,Gauteng
+84,"Adams, Trevino and Goodman Hospital",Gauteng
+85,Shaw-Shields Hospital,Western Cape
+86,White Inc Hospital,Gauteng
+87,Suarez-Trujillo Hospital,Gauteng
+88,Taylor Group Hospital,Gauteng
+89,"Yates, Ryan and Davenport Hospital",KZN
+90,Smith PLC Hospital,Gauteng
+91,Owens-Russo Hospital,KZN
+92,Cameron-Coleman Hospital,Gauteng
+93,Jackson-Horn Hospital,Western Cape
+94,"Whitney, Brady and Bailey Hospital",Western Cape
+95,Campos-Stewart Hospital,Western Cape
+96,"May, Williams and Russell Hospital",Gauteng
+97,"Wilson, Gentry and Nichols Hospital",Western Cape
+98,Simmons-Patel Hospital,KZN
+99,"Foster, Glass and Phillips Hospital",KZN
+100,Wolf-Palmer Hospital,Gauteng
+101,"Jones, Franklin and Stanley Hospital",Western Cape
+102,Robertson-Bean Hospital,Gauteng
+103,Powell PLC Hospital,Western Cape
+104,"Curry, Clark and Cox Hospital",Gauteng
+105,Berry Ltd Hospital,KZN
+106,Sanchez and Sons Hospital,Western Cape
+107,Sutton-Durham Hospital,Gauteng
+108,"Harvey, Nelson and Perry Hospital",Gauteng
+109,Goodman-Smith Hospital,Gauteng
+110,Cabrera Ltd Hospital,Gauteng
+111,Ho and Sons Hospital,Western Cape
+112,"Williams, Wood and Gardner Hospital",Gauteng
+113,"Hudson, Phillips and Young Hospital",KZN
+114,Fox LLC Hospital,Gauteng
+115,Thompson-Martin Hospital,Western Cape
+116,Johnston-Valdez Hospital,Gauteng
+117,Ortega PLC Hospital,Western Cape
+118,Lee-Carlson Hospital,Western Cape
+119,Smith-Brown Hospital,Gauteng
+120,Hess LLC Hospital,KZN
+121,"Callahan, Browning and Mccoy Hospital",Gauteng
+122,Mendoza Inc Hospital,Western Cape
+123,Price and Sons Hospital,KZN
+124,"Page, Franklin and Craig Hospital",Gauteng
+125,"Clark, Hebert and Juarez Hospital",KZN
+126,"Flores, Nixon and Boyd Hospital",Gauteng
+127,Collier Ltd Hospital,KZN
+128,Anderson PLC Hospital,Gauteng
+129,Williams Ltd Hospital,Western Cape
+130,Parker-Green Hospital,Western Cape
+131,"Norris, Black and Francis Hospital",KZN
+132,Griffith Group Hospital,KZN
+133,Gardner-Sims Hospital,Gauteng
+134,Stevens PLC Hospital,KZN
+135,"Cross, Campos and Bryant Hospital",Gauteng
+136,Garcia Inc Hospital,Gauteng
+137,Myers LLC Hospital,Western Cape
+138,"Martinez, Murphy and Evans Hospital",Western Cape
+139,Craig-Joseph Hospital,Western Cape
+140,Gray Ltd Hospital,Western Cape
+141,"Ford, Bauer and Donaldson Hospital",KZN
+142,Gonzalez Group Hospital,KZN
+143,Wilson Group Hospital,KZN
+144,"Blankenship, Smith and Williams Hospital",Gauteng
+145,Miller-Hendrix Hospital,Gauteng
+146,Jenkins PLC Hospital,Gauteng
+147,Davis-Robbins Hospital,Gauteng
+148,"Brown, Hall and Carter Hospital",Western Cape
+149,Barnes-Smith Hospital,Gauteng
+150,Pena-Zhang Hospital,Western Cape
+151,Jones-Nguyen Hospital,Gauteng
+152,"Acosta, Brown and Long Hospital",KZN
+153,"Waller, Foster and Wilson Hospital",KZN
+154,Reid-Malone Hospital,KZN
+155,"Glass, Perkins and Lambert Hospital",KZN
+156,"Jenkins, Edwards and Potter Hospital",KZN
+157,"Rowe, Roberts and Long Hospital",Gauteng
+158,"Kennedy, Drake and Lambert Hospital",KZN
+159,Dawson-Roth Hospital,Gauteng
+160,Moran-Thomas Hospital,KZN
+161,"Barker, Gonzalez and Cole Hospital",Gauteng
+162,Sandoval Ltd Hospital,Western Cape
+163,Knapp-Butler Hospital,KZN
+164,Carrillo and Sons Hospital,Western Cape
+165,Gonzalez Inc Hospital,Western Cape
+166,Smith Ltd Hospital,Western Cape
+167,Hernandez and Sons Hospital,KZN
+168,Reid Ltd Hospital,KZN
+169,Graham-Sanchez Hospital,Gauteng
+170,Jenkins and Sons Hospital,Gauteng
+171,"Duffy, Gutierrez and Lutz Hospital",KZN
+172,Smith-Hughes Hospital,Gauteng
+173,"Velasquez, Dillon and Lee Hospital",Gauteng
+174,"Nelson, Ruiz and Anderson Hospital",Gauteng
+175,"Cruz, Obrien and Flynn Hospital",Western Cape
+176,Sharp-Goodman Hospital,KZN
+177,"Bailey, Petersen and Smith Hospital",KZN
+178,Cohen Group Hospital,Gauteng
+179,Hamilton Ltd Hospital,Gauteng
+180,"Bennett, Allen and Miller Hospital",Western Cape
+181,Henderson-French Hospital,KZN
+182,Henderson-Osborne Hospital,KZN
+183,Delgado-White Hospital,Western Cape
+184,Casey Inc Hospital,Western Cape
+185,"Wiggins, Love and Brown Hospital",Gauteng
+186,Robinson and Sons Hospital,Western Cape
+187,Wells LLC Hospital,Western Cape
+188,Steele Ltd Hospital,KZN
+189,"Acosta, Hicks and Scott Hospital",KZN
+190,Ingram Group Hospital,Gauteng
+191,"Gonzalez, Lewis and Simpson Hospital",Western Cape
+192,Burns and Sons Hospital,Western Cape
+193,"Cox, Wagner and Brown Hospital",Gauteng
+194,Mata Inc Hospital,Gauteng
+195,"Miller, Moss and Combs Hospital",KZN
+196,"Tucker, Romero and Duffy Hospital",KZN
+197,Stokes-Scott Hospital,KZN
+198,"Mason, Smith and Bennett Hospital",Gauteng
+199,Love and Sons Hospital,Gauteng
+200,Cox LLC Hospital,Gauteng
+201,"Hess, Lane and Hayes Hospital",KZN
+202,Barrera and Sons Hospital,KZN
+203,"Petersen, Gates and Murillo Hospital",Western Cape
+204,Oneill-Livingston Hospital,Gauteng
+205,"Mcgee, Phillips and Lynch Hospital",Western Cape
+206,Jackson-Kane Hospital,Western Cape
+207,Garner-Martinez Hospital,Gauteng
+208,Cooper PLC Hospital,Western Cape
+209,"Jordan, Wilson and Torres Hospital",Gauteng
+210,Gillespie and Sons Hospital,Gauteng
+211,Barr Inc Hospital,Gauteng
+212,"Reynolds, Stanley and Taylor Hospital",Gauteng
+213,Barrera and Sons Hospital,Western Cape
+214,George LLC Hospital,Gauteng
+215,Ortega-Fischer Hospital,Gauteng
+216,Wright PLC Hospital,Gauteng
+217,"Shaw, Moreno and Jordan Hospital",Gauteng
+218,"Rogers, Crawford and Walters Hospital",Gauteng
+219,Herrera-Yates Hospital,Western Cape
+220,Mckay-Estrada Hospital,Western Cape
+221,Tran Ltd Hospital,Western Cape
+222,Watson-Vaughn Hospital,Gauteng
+223,Wade-Taylor Hospital,Gauteng
+224,Montgomery Ltd Hospital,Gauteng
+225,Ray and Sons Hospital,KZN
+226,"Carter, Watts and Harrison Hospital",Western Cape
+227,"Nolan, Jones and Sanders Hospital",Gauteng
+228,Sanders and Sons Hospital,KZN
+229,"Howell, Bailey and Combs Hospital",Western Cape
+230,Reyes-Willis Hospital,Western Cape
+231,Andrews-Hall Hospital,Gauteng
+232,Richards-Henderson Hospital,Western Cape
+233,Lee and Sons Hospital,Western Cape
+234,"Farley, Roberson and Klein Hospital",Gauteng
+235,Martinez PLC Hospital,KZN
+236,Reed-Kim Hospital,KZN
+237,Ford-Anderson Hospital,KZN
+238,Casey-Ballard Hospital,Gauteng
+239,Pham-Pierce Hospital,KZN
+240,Riggs Group Hospital,Gauteng
+241,"Alvarez, Martin and Kirby Hospital",Western Cape
+242,"Phillips, Swanson and Mcdonald Hospital",Gauteng
+243,Reilly-Smith Hospital,Western Cape
+244,"Gordon, Garcia and Ashley Hospital",Western Cape
+245,"Cruz, Coleman and Hoover Hospital",Gauteng
+246,"Robinson, King and Patterson Hospital",KZN
+247,Yoder Inc Hospital,Gauteng
+248,"Black, Mckinney and Terrell Hospital",Gauteng
+249,"Ross, Walters and Tucker Hospital",Western Cape
+250,Young and Sons Hospital,KZN
+251,Cox Ltd Hospital,Gauteng
+252,"Snyder, Cameron and Huang Hospital",Gauteng
+253,Miranda-Reynolds Hospital,KZN
+254,"Aguirre, Johnson and Carlson Hospital",KZN
+255,Ramos-Lopez Hospital,KZN
+256,"Brooks, Roberts and Harris Hospital",KZN
+257,Nguyen LLC Hospital,Western Cape
+258,Nguyen-Blair Hospital,Western Cape
+259,Mcgee LLC Hospital,KZN
+260,Merritt and Sons Hospital,Gauteng
+261,Cordova-Lee Hospital,Western Cape
+262,Banks-Frank Hospital,KZN
+263,Taylor-Morris Hospital,Gauteng
+264,Kemp-Torres Hospital,Western Cape
+265,Leblanc-Stevenson Hospital,Western Cape
+266,"Taylor, Smith and Harris Hospital",Western Cape
+267,Brown Group Hospital,Western Cape
+268,Martin Group Hospital,Gauteng
+269,Wilkerson-Hart Hospital,Gauteng
+270,Jones and Sons Hospital,Western Cape
+271,"Mejia, Johnson and Myers Hospital",Western Cape
+272,Taylor-Smith Hospital,Western Cape
+273,Keith and Sons Hospital,Gauteng
+274,Ortiz-Wells Hospital,KZN
+275,Wright Group Hospital,Gauteng
+276,Ray PLC Hospital,KZN
+277,"Blair, Long and Ortiz Hospital",KZN
+278,"Wise, Ayala and Harris Hospital",Western Cape
+279,"Martinez, Morris and Brown Hospital",Western Cape
+280,David Ltd Hospital,KZN
+281,"Ramsey, Gonzalez and Brennan Hospital",KZN
+282,Burns-Gardner Hospital,Gauteng
+283,"Johnson, Kramer and Benson Hospital",Gauteng
+284,"Marshall, Lynch and Abbott Hospital",KZN
+285,"Garza, Evans and Arias Hospital",KZN
+286,Brown-Perez Hospital,Gauteng
+287,Gonzalez-Roberts Hospital,Western Cape
+288,"Sims, Brown and Castro Hospital",Gauteng
+289,"Faulkner, Cardenas and Tran Hospital",Gauteng
+290,"Johnson, Nelson and Leonard Hospital",Western Cape
+291,Ramos-Cline Hospital,Gauteng
+292,Mills Group Hospital,KZN
+293,Davis and Sons Hospital,Gauteng
+294,Massey Inc Hospital,KZN
+295,"Murray, Wood and Obrien Hospital",Western Cape
+296,Brady-Sutton Hospital,Western Cape
+297,"Sandoval, White and Brown Hospital",Western Cape
+298,"Smith, Watson and Garcia Hospital",Gauteng
+299,"Miranda, Marquez and Jones Hospital",KZN
+300,"Jennings, Patterson and May Hospital",KZN
